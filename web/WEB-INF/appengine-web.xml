@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+  <application>i-perform-rbro</application>
+  <version>1</version>
+  <threadsafe>true</threadsafe>
+  <sessions-enabled>true</sessions-enabled>
+  <instance-class>F1</instance-class>
+  <automatic-scaling>
+    <min-idle-instances>1</min-idle-instances>
+    <!-- ‘automatic’ is the default value. -->
+    <max-idle-instances>2</max-idle-instances>
+    <!-- ‘automatic’ is the default value. -->
+    <min-pending-latency>4000ms</min-pending-latency>
+    <max-pending-latency>automatic</max-pending-latency>
+    <max-concurrent-requests>50</max-concurrent-requests>
+  </automatic-scaling>
+  <use-google-connector-j>true</use-google-connector-j>
+  <system-properties>
+    <property name="ae-cloudsql.cloudsql-database-url" value="jdbc:google:mysql://project-management-reporting:rbro-cloudsql2/wfh?user=wfh&amp;password=uthaa1Oh" />
+    <property name="ae-cloudsql.local-database-url" value="jdbc:mysql://google/wfh?cloudSqlInstance=project-management-reporting:rbro-cloudsql2&amp;socketFactory=com.google.cloud.sql.mysql.SocketFactory&amp;user=wfh&amp;password=uthaa1Oh&amp;useSSL=false" />
+  </system-properties>
+</appengine-web-app>

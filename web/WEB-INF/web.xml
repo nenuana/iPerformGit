@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>Evaluare.LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Home</servlet-name>
+        <servlet-class>Evaluare.Home</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Home</servlet-name>
+        <url-pattern>/home</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Valori</servlet-name>
+        <servlet-class>Evaluare.Valori</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Valori</servlet-name>
+        <url-pattern>/valori</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>Perspective</servlet-name>
+        <servlet-class>Evaluare.Perspective</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Perspective</servlet-name>
+        <url-pattern>/perspective</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>EchipaMea</servlet-name>
+        <servlet-class>Evaluare.EchipaMea</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EchipaMea</servlet-name>
+        <url-pattern>/echipamea</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoInsertValori</servlet-name>
+        <servlet-class>Evaluare.DoInsertValori</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoInsertValori</servlet-name>
+        <url-pattern>/doInsert</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>IesireEchipa</servlet-name>
+        <servlet-class>Evaluare.IesireEchipa</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>IesireEchipa</servlet-name>
+        <url-pattern>/Iesire</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>EchipaFrunza</servlet-name>
+        <servlet-class>Evaluare.EchipaFrunza</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EchipaFrunza</servlet-name>
+        <url-pattern>/echipan</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoDelega</servlet-name>
+        <servlet-class>Evaluare.DoDelega</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoDelega</servlet-name>
+        <url-pattern>/dodelega</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>Delega</servlet-name>
+        <servlet-class>Evaluare.Delega</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Delega</servlet-name>
+        <url-pattern>/delega</url-pattern>
+    </servlet-mapping>
+</web-app>

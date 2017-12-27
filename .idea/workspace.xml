@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="iPerform:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5a9ffe3-b512-473f-84ae-c887ce1fdaf2" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/../iPerform/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/iPerform$AppEngine_Dev_1_9_59.coverage" NAME="AppEngine Dev 1.9.59 Coverage Results" MODIFIED="1511947660261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="DBUtilis.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DBUtilis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1659">
+              <caret line="81" column="43" lean-forward="false" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+              <folding>
+                <marker date="1513936525775" expanded="true" signature="263:388" ph="Select a.las... employee" />
+                <marker date="1513936525775" expanded="true" signature="263:409" ph="Select a.las... employee" />
+                <marker date="1513936525775" expanded="true" signature="1261:1611" ph="Select np2_c... employee_superior" />
+                <marker date="1513936525775" expanded="true" signature="4922:5244" ph="Select a.int... Valori" />
+                <marker date="1513936525775" expanded="true" signature="7389:7577" ph="Insert into valori... " />
+                <marker date="1513936525775" expanded="true" signature="7389:7658" ph="Insert into inregistrarewfh... " />
+                <marker date="1513936525775" expanded="true" signature="8645:9103" ph="Insert into delegati... " />
+                <marker date="1513936525775" expanded="true" signature="10614:10941" ph="Update valor... " />
+                <marker date="1513936525775" expanded="true" signature="12026:12075" ph="Select code employee" />
+                <marker date="1513936525775" expanded="true" signature="12488:12552" ph="SELECT email... employee_superior" />
+                <marker date="1513936525775" expanded="true" signature="13005:13069" ph="SELECT email... employee_superior" />
+                <marker date="1513936525775" expanded="true" signature="13537:13597" ph="Select emplo... valori" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EchipaMea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaMea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1617">
+              <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="92" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Delegati.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Delegati.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1281">
+              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoInsertValori.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DoInsertValori.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3927">
+              <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="209" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Delega.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Delega.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1323">
+              <caret line="77" column="42" lean-forward="false" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoDelega.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DoDelega.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2793">
+              <caret line="147" column="17" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="echipamea.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iPerform/web/echipamea.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4998">
+              <caret line="238" column="27" lean-forward="false" selection-start-line="238" selection-start-column="27" selection-end-line="238" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iPerform/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1848">
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="95" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1764">
+              <caret line="84" column="44" lean-forward="false" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delega.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../iPerform/web/delega.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="813">
+              <caret line="172" column="96" lean-forward="false" selection-start-line="172" selection-start-column="96" selection-end-line="172" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mare</find>
+      <find>qanda</find>
+      <find>v1</find>
+      <find>label</find>
+      <find>detalii</find>
+      <find>butonfaq</find>
+      <find>adauga</find>
+      <find>top</find>
+      <find>conta</find>
+      <find>cont</find>
+      <find>nota_discernamant</find>
+      <find>simpl</find>
+      <find>mail</find>
+      <find>col-md-4</find>
+      <find>if</find>
+      <find>iPer</find>
+      <find>iPe</find>
+      <find>verififsuperior</find>
+      <find>unit</find>
+      <find>insert</find>
+      <find>infoanga</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/../iPerform/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/home.jsp" />
+        <option value="$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/valori.jsp" />
+        <option value="$PROJECT_DIR$/../iPerform/web/perspective..jsp" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Employee.java" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/EmployeeSuperior.java" />
+        <option value="$PROJECT_DIR$/../iPerform/web/stilizare.css" />
+        <option value="$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/appengine-web.xml" />
+        <option value="$PROJECT_DIR$/../iPerform/web/WEB-INF/appengine-web.xml" />
+        <option value="$PROJECT_DIR$/../iPerform/web/index.jsp" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/ValoriServlet.java" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/DoInsertValori.java" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Home.java" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Perspective.java" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/IesireEchipa.java" />
+        <option value="$PROJECT_DIR$/../iPerform/web/perspective.jsp" />
+        <option value="$PROJECT_DIR$/../iPerform/web/home.jsp" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaMea.java" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Delegati.java" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/DoDelega.java" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Valori.java" />
+        <option value="$PROJECT_DIR$/../iPerform/web/valori.jsp" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaFrunza.java" />
+        <option value="$PROJECT_DIR$/../iPerform/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../iPerform/web/echipamea.jsp" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Delega.java" />
+        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/DBUtilis.java" />
+        <option value="$PROJECT_DIR$/../iPerform/web/delega.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaeeView">
+    <option name="showModules" value="false" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="89" />
+    <option name="width" value="1645" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="Evaluare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Evaluare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="D:/NodeJS/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../iPerform" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Google App Engine Deployment.Google App Engine Deployment">
+    <configuration name="AppEngine Dev 1.9.59" type="GoogleAppEngineDevServer" factoryName="Local" APPLICATION_SERVER_NAME="AppEngine Dev 1.9.59" ALTERNATIVE_JRE_ENABLED="false">
+      <server-settings>
+        <option name="artifact" value="iPerform:war exploded" />
+        <artifact>iPerform:war exploded</artifact>
+      </server-settings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <ConfigurationWrapper VM_VAR="" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="iPerform:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Google App Engine Deployment" type="google-app-engine-deploy" factoryName="Google App Engine Deployment" server-name="Google App Engine">
+      <deployment type="artifact" name="iPerform:war exploded" />
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="iPerform:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../iPerform" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Google App Engine Deployment.Google App Engine Deployment" />
+      <item index="1" class="java.lang.String" itemvalue="Google AppEngine Dev Server.AppEngine Dev 1.9.59" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5a9ffe3-b512-473f-84ae-c887ce1fdaf2" name="Default" comment="" />
+      <created>1511940565970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511940565970</updated>
+      <workItem from="1511940571517" duration="3694000" />
+      <workItem from="1511944638291" duration="1761000" />
+      <workItem from="1511947139761" duration="14378000" />
+      <workItem from="1512371062898" duration="22774000" />
+      <workItem from="1512397513628" duration="3955000" />
+      <workItem from="1512459558095" duration="6736000" />
+      <workItem from="1512474495024" duration="11666000" />
+      <workItem from="1512546234000" duration="18924000" />
+      <workItem from="1512631433748" duration="8474000" />
+      <workItem from="1512646768342" duration="13013000" />
+      <workItem from="1512720992632" duration="3673000" />
+      <workItem from="1512730694980" duration="12694000" />
+      <workItem from="1512988056849" duration="18136000" />
+      <workItem from="1513151626339" duration="21124000" />
+      <workItem from="1513239742112" duration="12945000" />
+      <workItem from="1513328001009" duration="7339000" />
+      <workItem from="1513582880764" duration="21527000" />
+      <workItem from="1513671789299" duration="19732000" />
+      <workItem from="1513756150423" duration="17446000" />
+      <workItem from="1513842677519" duration="7667000" />
+      <workItem from="1513927614316" duration="11854000" />
+      <workItem from="1514367731542" duration="156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="259668000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21266969" sideWeight="0.08700322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39253393" sideWeight="0.91299677" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.030075189" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.4935553" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20408164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.015574651" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.4935553" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="32" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../iPerform/.idea/sqldialects.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="219" column="42" lean-forward="false" selection-start-line="219" selection-start-column="42" selection-end-line="219" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/META-INF/jdoconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/LoginServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/perspective..jsp" />
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/integritate.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/perspective.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513603582144" expanded="false" signature="2515:2529" ph="..." />
+            <marker date="1513603582144" expanded="true" signature="22212:22255" ph="..." />
+            <marker date="1513603582144" expanded="true" signature="22212:22282" ph="..." />
+            <marker date="1513603582144" expanded="true" signature="22212:22305" ph="..." />
+            <marker date="1513603582144" expanded="true" signature="22212:22324" ph="..." />
+            <marker date="1513603582144" expanded="true" signature="22212:22339" ph="..." />
+            <marker date="1513603582144" expanded="true" signature="22212:22350" ph="..." />
+            <marker date="1513603582144" expanded="true" signature="22212:22357" ph="..." />
+            <marker date="1513603582144" expanded="true" signature="22391:22688" ph="..." />
+            <marker date="1513603582144" expanded="true" signature="22409:22677" ph="{...}" />
+            <marker date="1513603582144" expanded="true" signature="22458:22539" ph="{...}" />
+            <marker date="1513603582144" expanded="true" signature="22588:22669" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="120" column="18" lean-forward="false" selection-start-line="120" selection-start-column="18" selection-end-line="120" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/respect.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/production/iPerform/Evaluare/Home.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/pasiune.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/simplitate.bmp">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/stilizare.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="168" column="2" lean-forward="false" selection-start-line="168" selection-start-column="2" selection-end-line="168" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/appengine-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/Home.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/production/iPerform/Evaluare/DBUtilis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="365" column="19" lean-forward="false" selection-start-line="365" selection-start-column="19" selection-end-line="365" selection-end-column="19" />
+          <folding>
+            <marker date="1513603582155" expanded="false" signature="2775:2789" ph="..." />
+            <marker date="1513603582155" expanded="false" signature="3756:3759" ph="..." />
+            <marker date="1513603582155" expanded="true" signature="3853:3934" ph="..." />
+            <marker date="1513603582155" expanded="true" signature="3882:3926" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/Valori.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/DBUtilis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/ValoriServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/iPerform.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/valori.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20685">
+          <caret line="987" column="0" lean-forward="false" selection-start-line="987" selection-start-column="0" selection-end-line="987" selection-end-column="0" />
+          <folding>
+            <marker date="1513759290784" expanded="true" signature="6520:6563" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="6603:38407" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="6637:10563" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="6679:10555" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="6706:7526" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="6730:7518" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="6763:6905" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="6872:6889" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="6939:7506" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="6970:7112" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7011:7093" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7144:7491" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7185:7472" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7556:10089" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7579:10080" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7611:8876" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7641:8860" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7682:7832" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="7791:7808" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7872:8777" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="7948:7965" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="7966:8754" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="8817:8841" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="8917:8932" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="8933:10068" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="8963:10052" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="9004:9154" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="9113:9130" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="9194:9969" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="9256:9273" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="9274:9946" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10009:10033" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10120:10520" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10144:10512" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10177:10333" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="10278:10287" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10366:10501" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="10445:10473" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10598:15159" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10644:15151" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10679:11639" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10711:11623" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10752:10906" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="10865:10882" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10948:11603" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="10987:11157" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="11036:11130" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="11197:11580" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="11246:11553" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="11685:14593" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="11716:14576" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="11756:13180" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="11794:13156" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="11843:12009" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="11960:11977" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="12057:13049" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="12137:12154" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="12155:13018" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="13097:13129" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="13229:13244" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="13245:14556" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="13283:14532" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="13332:13498" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="13449:13466" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="13546:14425" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="13616:13633" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="13634:14394" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="14473:14505" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="14640:15096" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="14672:15080" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="14713:14873" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="14814:14823" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="14914:15061" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="14997:15025" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15194:19764" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15240:19756" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15275:16238" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15307:16222" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15348:15503" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="15462:15479" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15545:16202" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15584:15755" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15633:15728" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15795:16179" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="15844:16152" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="16284:19196" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="16315:19179" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="16355:17783" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="16393:17759" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="16442:16608" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="16559:16576" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="16656:17652" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="16737:16754" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="16755:17621" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="17700:17732" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="17832:17847" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="17848:19159" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="17886:19135" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="17935:18101" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="18052:18069" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="18149:19028" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="18219:18236" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="18237:18997" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19076:19108" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19243:19701" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19275:19685" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19316:19478" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="19418:19427" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19519:19666" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="19602:19630" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19799:24386" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19845:24378" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19880:20849" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19912:20833" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="19953:20110" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="20069:20086" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="20152:20813" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="20191:20364" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="20240:20337" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="20404:20790" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="20453:20763" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="20895:23814" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="20926:23797" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="20966:22401" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="21004:22377" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="21053:21219" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="21170:21187" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="21267:22270" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="21350:21367" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="21368:22239" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="22318:22350" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="22450:22465" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="22466:23777" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="22504:23753" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="22553:22719" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="22670:22687" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="22767:23646" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="22837:22854" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="22855:23615" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="23694:23726" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="23861:24323" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="23893:24307" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="23934:24100" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="24038:24047" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="24141:24288" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="24224:24252" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="24421:29012" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="24467:29004" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="24502:25471" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="24534:25455" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="24575:24732" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="24691:24708" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="24774:25435" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="24813:24986" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="24862:24959" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="25026:25412" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="25075:25385" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="25517:28439" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="25548:28422" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="25588:27026" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="25626:27002" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="25675:25841" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="25792:25809" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="25889:26895" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="25976:25993" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="25994:26864" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="26943:26975" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="27075:27090" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="27091:28402" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="27129:28378" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="27178:27344" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="27295:27312" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="27392:28271" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="27462:27479" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="27480:28240" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="28319:28351" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="28486:28949" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="28518:28933" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="28559:28726" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="28643:28652" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="28767:28914" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="28850:28878" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29047:33608" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29093:33600" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29128:30088" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29160:30072" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29201:29355" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="29314:29331" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29397:30052" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29436:29606" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29485:29579" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29646:30029" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="29695:30002" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="30134:33042" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="30165:33025" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="30205:31629" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="30243:31605" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="30292:30458" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="30409:30426" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="30506:31498" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="30586:30603" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="30604:31467" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="31546:31578" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="31678:31693" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="31694:33005" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="31732:32981" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="31781:31947" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="31898:31915" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="31995:32874" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="32065:32082" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="32083:32843" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="32922:32954" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33089:33545" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33121:33529" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33162:33322" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="33263:33272" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33363:33510" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="33446:33474" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33643:38246" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33689:38238" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33724:34699" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33756:34683" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33797:33956" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="33915:33932" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="33998:34663" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="34037:34212" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="34086:34185" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="34252:34640" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="34301:34613" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="34745:37670" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="34776:37653" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="34816:36257" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="34854:36233" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="34903:35069" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="35020:35037" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="35117:36126" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="35202:35219" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="35220:36095" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="36174:36206" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="36306:36321" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="36322:37633" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="36360:37609" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="36409:36575" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="36526:36543" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="36623:37502" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="36693:36710" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="36711:37471" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="37550:37582" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="37717:38183" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="37749:38167" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="37790:37960" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="37874:37883" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="38001:38148" ph="..." />
+            <marker date="1513759290784" expanded="false" signature="38084:38112" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="38273:38398" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="38320:38391" ph="..." />
+            <marker date="1513759290784" expanded="true" signature="38408:38415" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Perspective.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1407">
+          <caret line="86" column="58" lean-forward="true" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/IesireEchipa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/perspective.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="87" column="42" lean-forward="true" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="156" column="0" lean-forward="true" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="70" column="5" lean-forward="false" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="e#2441#2442#0" expanded="false" />
+            <element signature="e#2475#2476#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/caluti.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/DoInsertValori.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/ValoriServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Valori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2037">
+          <caret line="111" column="48" lean-forward="false" selection-start-line="111" selection-start-column="48" selection-end-line="111" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/valori.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3213">
+          <caret line="153" column="96" lean-forward="false" selection-start-line="153" selection-start-column="96" selection-end-line="153" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/echipamea.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <marker date="1513931726515" expanded="false" signature="5016:5025" ph="..." />
+            <marker date="1513931726515" expanded="true" signature="9139:10697" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/EmployeeSuperior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaFrunza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="154" column="10" lean-forward="true" selection-start-line="154" selection-start-column="10" selection-end-line="154" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/discernamant.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/WEB-INF/appengine-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="95" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="84" column="44" lean-forward="false" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaMea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1617">
+          <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="92" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DoInsertValori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="209" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/echipamea.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="238" column="27" lean-forward="false" selection-start-line="238" selection-start-column="27" selection-end-line="238" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DoDelega.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2793">
+          <caret line="147" column="17" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Delegati.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Delega.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="77" column="42" lean-forward="false" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DBUtilis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="81" column="43" lean-forward="false" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+          <folding>
+            <marker date="1513936525775" expanded="true" signature="263:388" ph="Select a.las... employee" />
+            <marker date="1513936525775" expanded="true" signature="263:409" ph="Select a.las... employee" />
+            <marker date="1513936525775" expanded="true" signature="1261:1611" ph="Select np2_c... employee_superior" />
+            <marker date="1513936525775" expanded="true" signature="4922:5244" ph="Select a.int... Valori" />
+            <marker date="1513936525775" expanded="true" signature="7389:7577" ph="Insert into valori... " />
+            <marker date="1513936525775" expanded="true" signature="7389:7658" ph="Insert into inregistrarewfh... " />
+            <marker date="1513936525775" expanded="true" signature="8645:9103" ph="Insert into delegati... " />
+            <marker date="1513936525775" expanded="true" signature="10614:10941" ph="Update valor... " />
+            <marker date="1513936525775" expanded="true" signature="12026:12075" ph="Select code employee" />
+            <marker date="1513936525775" expanded="true" signature="12488:12552" ph="SELECT email... employee_superior" />
+            <marker date="1513936525775" expanded="true" signature="13005:13069" ph="SELECT email... employee_superior" />
+            <marker date="1513936525775" expanded="true" signature="13537:13597" ph="Select emplo... valori" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iPerform/web/delega.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="172" column="96" lean-forward="false" selection-start-line="172" selection-start-column="96" selection-end-line="172" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>iPerform:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Google App Engine (iPerform)|Google App Engine</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Google App Engine|iPerform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>AppEngine API</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
