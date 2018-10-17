@@ -14,6 +14,8 @@ import java.net.InetAddress;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 @WebServlet(
@@ -66,15 +68,16 @@ public class EchipaFrunza extends HttpServlet {
 
             try {
                 HttpSession session = request.getSession(true);
-             //   String email = (String) session.getAttribute("email");
+                String email = (String) session.getAttribute("email");
                 String Name = (String) session.getAttribute("Name");
                 String poza = (String) session.getAttribute("poza");
 
                 //verificare
-                String email = "bogdan.pipernea@raiffeisen.ro";
+              //  String email = "raluca.corpacescu@raiffeisen.ro";
                 System.out.println("email");
                 System.out.println(email);
 
+                String unit = DBUtilis.departament(conn,email);
                 //testare
                 String email_np1 = request.getParameter("emailechipa");
                 String verifn2 = DBUtilis.verifnp2(conn,email);
@@ -83,11 +86,43 @@ public class EchipaFrunza extends HttpServlet {
                 System.out.println("verificare");
                 System.out.println(verifn2);
 
-                List list8 = null;
-                List list9 = null;
+                List<Employee> list8 = null;
+                ArrayList verificareEchipa = new ArrayList();
                 String errorString = null;
                 try {
                     list8 = DBUtilis.echipa(conn,email_np1);
+                    Iterator j = list8.iterator();
+
+                    while (j.hasNext()) {
+                        echipaDetalii jj = (echipaDetalii) (j.next());
+                        String emaill = String.valueOf(jj.getEmail());
+
+                        System.out.println("emailechipa" + emaill);
+                        List<Employee> list9 = null;
+                        list9 = DBUtilis.echipa(conn,emaill);
+
+
+                        Iterator m = list9.iterator();
+                        Integer contor = 0;
+                        while (m.hasNext()) {
+                            echipaDetalii mm = (echipaDetalii) (m.next());
+                            String emailechipa2 = String.valueOf(mm.getEmail());
+                            if (emailechipa2 != null){
+                                contor =1;
+                            }
+
+                            System.out.println("emailechipa2" + emailechipa2);
+                        }
+                        if (contor == 0){
+                            verificareEchipa.add("Nu");
+
+                        }
+                        else {verificareEchipa.add("Da");
+
+                        }
+
+                    }
+                    System.out.println("echipa frumza" + verificareEchipa);
 
                 } catch (SQLException var233) {
                     var233.printStackTrace();
@@ -101,6 +136,8 @@ public class EchipaFrunza extends HttpServlet {
                     response.sendRedirect(request.getServletPath() + "/home");
                 } else {
                     request.setAttribute("list8", list8);
+                    request.setAttribute("unit",unit);
+                    request.setAttribute("verificareEchipa",verificareEchipa);
                     request.setAttribute("verifn2", verifn2);
                     RequestDispatcher dispatcher = request.getRequestDispatcher("echipamea.jsp");
                     dispatcher.forward(request, response);
@@ -110,7 +147,7 @@ public class EchipaFrunza extends HttpServlet {
                 }
             } catch (Exception var234) {
 
-                //  response.sendRedirect("/picturefail.jsp");
+                  response.sendRedirect("index.jsp");
                 throw new RuntimeException(var234);
             }
         }

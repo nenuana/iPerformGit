@@ -68,16 +68,29 @@ public class Valori extends HttpServlet {
                 HttpSession session = request.getSession(true);
 
                 // email persoana logata
-                String email = (String)session.getAttribute("email");
+                 String email = (String)session.getAttribute("email");
 
+
+                //testare
+              //  email = "bogdan.pipernea@raiffeisen.ro";
+              //  email = "andreea.todirica@raiffeisen.ro";
                 // email persoana echipa
 
-                String emailechipa = request.getParameter("emailechipa");
+               // String email = (String) session.getAttribute("email");
+               // String email = "bogdan.pipernea@raiffeisen.ro";
+               //String email = "raluca.corpacescu@raiffeisen.ro";
+                String emailechipa = (String) session.getAttribute("emailechipa");
+
+                System.out.println("emailechipa");
+                System.out.println(emailechipa);
+
                 String Name = (String)session.getAttribute("Name");
                 String poza = (String)session.getAttribute("poza");
 
-                String last_name = request.getParameter("last_name");
-                String first_name = request.getParameter("first_name");
+                String verifechipa= (String) session.getAttribute("verifechipa");
+
+                String last_name_echipa = (String)session.getAttribute("lnechipa");
+                String first_name_echipa = (String)session.getAttribute("fnameechipa");
                 System.out.println("email");
                 System.out.println(email);
 
@@ -86,7 +99,6 @@ public class Valori extends HttpServlet {
                 System.out.println(emailechipa);
 
 
-                session.setAttribute("emailechipa",emailechipa);
                 String errorString = null;
                 List valori = null;
                 try {
@@ -108,16 +120,16 @@ public class Valori extends HttpServlet {
                 request.setAttribute("emailechipa",emailechipa);
 
 
-                request.setAttribute("last_name",last_name);
-                request.setAttribute("first_name",first_name);
-
+                request.setAttribute("last_name_echipa",last_name_echipa);
+                request.setAttribute("first_name_echipa",first_name_echipa);
+                request.setAttribute("verifechipa",verifechipa);
                 RequestDispatcher dispatcher = request.getRequestDispatcher("valori.jsp");
                 dispatcher.forward(request, response);
 
 
                 conn.close();
             } catch (Exception var234) {
-                response.sendRedirect("/picturefail.jsp");
+                response.sendRedirect("index.jsp");
                 throw new RuntimeException(var234);
             }
         }

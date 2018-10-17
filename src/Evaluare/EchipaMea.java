@@ -14,6 +14,8 @@ import java.net.InetAddress;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 @WebServlet(
@@ -55,6 +57,7 @@ public class EchipaMea extends HttpServlet {
 
             try {
                 conn = DriverManager.getConnection(url);
+
             } catch (SQLException var235) {
                 var235.printStackTrace();
                 this.log("nu s-a conectat");
@@ -66,29 +69,150 @@ public class EchipaMea extends HttpServlet {
 
             try {
                 HttpSession session = request.getSession(true);
-                String email = (String) session.getAttribute("email");
+                 String email = (String) session.getAttribute("email");
                 String Name = (String) session.getAttribute("Name");
                 String poza = (String) session.getAttribute("poza");
-                System.out.println("email");
-                System.out.println(email);
+
+                String delega = (String) session.getAttribute("delega");
+
+
+                List listValori = null;
 
                 //testare
-                String email_np1 = "bogdan.pipernea@raiffeisen.ro";
+             //  email = (String) session.getAttribute("adresa");
+              //  email = "andreea.todirica@raiffeisen.ro";
+              // String email = "raluca.corpacescu@raiffeisen.ro";
 
-                List list8 = null;
+               // String email_np1 = "bogdan.pipernea@raiffeisen.ro";
+
+
+                // aflu unit
+
+                String unit = DBUtilis.departament(conn,email);
+
+                String email_np1 = null;
+
+
+
+               // List list8 = null;
+
+                List<Employee> list8 = null;
+                ArrayList verificareEchipa = new ArrayList();
                 String errorString = null;
-                try {
-                    list8 = DBUtilis.echipa(conn,email_np1);
 
-                } catch (SQLException var233) {
-                    var233.printStackTrace();
-                    errorString = var233.getMessage();
+                if (delega == null){
+                    email_np1 = email;
+
+                   // email_np1 = "bogdan.pipernea@raiffeisen.ro";
+
+
+                    System.out.println("in prima");
+
+
+
+                    try {
+                        list8 = DBUtilis.echipa(conn,email_np1);
+                        Iterator j = list8.iterator();
+
+                        while (j.hasNext()) {
+                            echipaDetalii jj = (echipaDetalii) (j.next());
+                            String emaill = String.valueOf(jj.getEmail());
+
+                            System.out.println("emailechipa" + emaill);
+                            List<Employee> list9 = null;
+                            list9 = DBUtilis.echipa(conn,emaill);
+
+
+                            Iterator m = list9.iterator();
+                            Integer contor = 0;
+                            while (m.hasNext()) {
+                                echipaDetalii mm = (echipaDetalii) (m.next());
+                                String emailechipa2 = String.valueOf(mm.getEmail());
+                                if (emailechipa2 != null){
+                                    contor =1;
+                                }
+
+                                System.out.println("emailechipa2" + emailechipa2);
+                            }
+                            if (contor == 0){
+                                verificareEchipa.add("Nu");
+
+                            }
+                            else {verificareEchipa.add("Da");
+
+                            }
+
+                        }
+
+
+                    } catch (SQLException e) {
+                        e.printStackTrace();
+                        System.out.println("eroare"+ e);
+                    }
+
+
                 }
+                else{
+                    System.out.println("in a doua");
+                    email_np1 = delega;
+                   // email_np1 = "bogdan.pipernea@raiffeisen.ro";
+
+
+
+                    try {
+                        list8 = DBUtilis.echipadelegati(conn,email_np1);
+
+
+                        Iterator j = list8.iterator();
+
+                        while (j.hasNext()) {
+                            echipaDetalii jj = (echipaDetalii) (j.next());
+                            String emaill = String.valueOf(jj.getEmail());
+
+                            System.out.println("emailechipa" + emaill);
+                            List<Employee> list9 = null;
+                            list9 = DBUtilis.echipa(conn,emaill);
+
+
+                            Iterator m = list9.iterator();
+                            Integer contor = 0;
+                            while (m.hasNext()) {
+                                echipaDetalii mm = (echipaDetalii) (m.next());
+                                String emailechipa2 = String.valueOf(mm.getEmail());
+                                if (emailechipa2 != null){
+                                    contor =1;
+                                }
+
+                                System.out.println("emailechipa2" + emailechipa2);
+                            }
+                            if (contor == 0){
+                                verificareEchipa.add("Nu");
+
+                            }
+                            else {verificareEchipa.add("Da");
+
+                            }
+
+                        }
+
+                    } catch (SQLException e) {
+                        e.printStackTrace();
+                        System.out.println("eroare"+ e);
+                    }
+
+                }
+
+
+
                 if (errorString != null && list8 == null) {
                     response.sendRedirect(request.getServletPath() + "/home");
                 } else {
                     request.setAttribute("list8", list8);
+                    request.setAttribute("listValori", listValori);
+                    request.setAttribute("verificareEchipa",verificareEchipa);
 
+                    request.setAttribute("poza",poza);
+                    request.setAttribute("unit",unit);
                     RequestDispatcher dispatcher = request.getRequestDispatcher("echipamea.jsp");
                     dispatcher.forward(request, response);
 
@@ -97,7 +221,7 @@ public class EchipaMea extends HttpServlet {
                 }
             } catch (Exception var234) {
 
-              //  response.sendRedirect("/picturefail.jsp");
+                response.sendRedirect("index.jsp");
                 throw new RuntimeException(var234);
             }
         }

@@ -22,6 +22,11 @@
   <script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
   <script src="https://apis.google.com/js/api:client.js"></script>
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+  <script src="https://apis.google.com/js/api:client.js"></script>
+
 
   <style>
     body, html {
@@ -30,20 +35,40 @@
       background-position: center;
 
     }
-    .card-container.card {
-      max-width: 350px;
-      padding: 40px 40px;
+    #customBtn {
+      display: inline-block;
+      background: white;
+      color: #444;
+      width: 190px;
+      border-radius: 5px;
+      border: thin solid #888;
+      box-shadow: 1px 1px 1px grey;
+      white-space: nowrap;
     }
-
-    .btn {
-      font-weight: 700;
-      height: 36px;
-      -moz-user-select: none;
-      -webkit-user-select: none;
-      user-select: none;
-      cursor: default;
+    #customBtn:hover {
+      cursor: pointer;
     }
-
+    span.label {
+      font-family: serif;
+      font-weight: normal;
+    }
+    span.icon {
+      background: url("googleSignIn.png") transparent 5px 50% no-repeat;
+      display: inline-block;
+      vertical-align: middle;
+      width: 42px;
+      height: 42px;
+    }
+    span.buttonText {
+      display: inline-block;
+      vertical-align: middle;
+      padding-left: 42px;
+      padding-right: 42px;
+      font-size: 14px;
+      font-weight: bold;
+      /* Use the Roboto font that is loaded in the <head> */
+      font-family: 'Roboto', sans-serif;
+    }
     /*
      * Card component
      */
@@ -62,76 +87,6 @@
       box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
     }
 
-    .profile-img-card {
-      width: 96px;
-      height: 96px;
-      margin: 0 auto 10px;
-      display: block;
-      -moz-border-radius: 50%;
-      -webkit-border-radius: 50%;
-      border-radius: 50%;
-    }
-
-    /*
-     * Form styles
-     */
-    .profile-name-card {
-      font-size: 16px;
-      font-weight: bold;
-      text-align: center;
-      margin: 10px 0 0;
-      min-height: 1em;
-    }
-
-    .reauth-email {
-      display: block;
-      color: #404040;
-      line-height: 2;
-      margin-bottom: 10px;
-      font-size: 14px;
-      text-align: center;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-      -moz-box-sizing: border-box;
-      -webkit-box-sizing: border-box;
-      box-sizing: border-box;
-    }
-
-
-    .btn.btn-signin {
-      /*background-color: #4d90fe; */
-      background-color: rgb(104, 145, 162);
-      /* background-color: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));*/
-      padding: 0px;
-      font-weight: 700;
-      font-size: 14px;
-      height: 36px;
-      -moz-border-radius: 3px;
-      -webkit-border-radius: 3px;
-      border-radius: 3px;
-      border: none;
-      -o-transition: all 0.218s;
-      -moz-transition: all 0.218s;
-      -webkit-transition: all 0.218s;
-      transition: all 0.218s;
-    }
-
-    .btn.btn-signin:hover,
-    .btn.btn-signin:active,
-    .btn.btn-signin:focus {
-      background-color: rgb(12, 97, 33);
-    }
-
-    .forgot-password {
-      color: rgb(104, 145, 162);
-    }
-
-    .forgot-password:hover,
-    .forgot-password:active,
-    .forgot-password:focus{
-      color: rgb(12, 97, 33);
-    }
     .md-card{
       box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12);
       background-color: white;
@@ -147,7 +102,7 @@
           gapi.load('auth2', function(){
               // Retrieve the singleton for the GoogleAuth library and set up the client.
               auth2 = gapi.auth2.init({
-                  client_id: '456073198539-38b0qqaha5ndl9uknuqcukft8uv7gv4a.apps.googleusercontent.com',
+                  client_id: '456073198539-slhj91nk1o3n4ghff4qbi7m65bnavalb.apps.googleusercontent.com',
                   cookiepolicy: 'single_host_origin',
                   // Request scopes in addition to 'profile' and 'email'
                   //scope: 'additional_scope'
@@ -206,19 +161,15 @@
 <body>
 
 
-<div class="container" style="padding-top: 13%">
-  <div class="card card-container md-card">
+<div class="container" style="padding-top: 19%">
+  <div class="card card-container md-card" style="width: 341px;">
 
 
     <div class="panel-heading"><img src="iPerformLogo.png" style="height: 56px;padding-left: 40px;"></div>
-    <div class="panel-body" style="padding-left: 68px;">
+    <div class="panel-body" style="padding-left: 50px;">
 
-
-      <b>iPerform</b>
-
-      <button onclick="startApp()" a href="/editInregistrari" id ="customBtn" class="btn btn-default"  >Sign in </button>
-
-
+      <button onclick="startApp()" a href="/editInregistrari" id ="customBtn" class="customGPlusSignIn">       <span class="icon"></span>
+        <span class="buttonText">Google</span></button>
 
 
     </div>

@@ -27,7 +27,7 @@ public class IesireEchipa extends HttpServlet {
                 HttpSession session = request.getSession(true);
                 String email = (String)session.getAttribute("email");
 
-
+                // String email = (String)session.getAttribute("adresa");
                 request.getSession().removeAttribute("emailechipa");
 
 
@@ -37,7 +37,7 @@ public class IesireEchipa extends HttpServlet {
 
 
             } catch (Exception var234) {
-                response.sendRedirect("/picturefail.jsp");
+                response.sendRedirect("index.jsp");
                 throw new RuntimeException(var234);
             }
         }

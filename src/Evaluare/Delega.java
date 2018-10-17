@@ -91,8 +91,7 @@ public class Delega extends HttpServlet {
                     conn.close();
                 }
                catch (Exception var234) {
-
-                //  response.sendRedirect("/picturefail.jsp");
+                   response.sendRedirect("index.jsp");
                 throw new RuntimeException(var234);
             }
         }

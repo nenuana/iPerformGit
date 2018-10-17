@@ -128,38 +128,39 @@
 
                         <c:forEach items ="${list9}" var="ceva">
 
-                            <p><strong>Marca:</strong> ${ceva.code}</p>
-                            <p><strong>Nume:</strong>${ceva.last_name}</p>
-                            <p><strong>Prenume:</strong>${ceva.first_name}</p>
-                            <p><strong>E-mail:</strong>${ceva.email}</p>
-
-                            <p><strong>N+1 Marca:</strong>${ceva.np1_code}</p>
-                            <p><strong>N+1 Nume:</strong>${ceva.np1_last_name}</p>
-                            <p><strong>N+1 Prenume:</strong>${ceva.np1_first_name}</p>
-                            <p><strong>N+1 E-mail:</strong>${ceva.np1_email}</p>
-
-                            <p><strong>N+2 Marca:</strong>${ceva.np2_code}</p>
-                            <p><strong>N+2 Nume:</strong>${ceva.np2_last_name}</p>
-                            <p><strong>N+2 Prenume:</strong>${ceva.np2_first_name}</p>
-                            <p><strong>N+2 Email:</strong>${ceva.np2_email}</p>
 
 
-                            <p><strong>N+3 Marca:</strong>${ceva.np3_code}</p>
-                            <p><strong>N+3 Nume:</strong>${ceva.np3_last_name}</p>
-                            <p><strong>N+3 Prenume:</strong>${ceva.np3_first_name}</p>
-                            <p><strong>N+3 E-mail:</strong>${ceva.np3_email}</p>
 
-                            <p><strong>N+4 Marca:</strong>${ceva.np4_code}</p>
-                            <p><strong>N+4 Nume:</strong>${ceva.np4_last_name}</p>
-                            <p><strong>N+4 Prenume:</strong>${ceva.np4_first_name}</p>
-                            <p><strong>N+4 E-mail:</strong>${ceva.np4_email}</p>
+                            <p style="padding-left: 15px;"><strong>Nume:</strong>${ceva.last_name}</p>
+                            <p style="padding-left: 15px;"><strong>Prenume:</strong>${ceva.first_name}</p>
+                    <p style="padding-left: 15px;"><strong>E-mail:</strong>${ceva.email}</p>
+
+
+                    <p style="padding-left: 15px;"><strong>N+1 Nume:</strong>${ceva.np1_last_name}</p>
+                    <p style="padding-left: 15px;"><strong>N+1 Prenume:</strong>${ceva.np1_first_name}</p>
+                    <p style="padding-left: 15px;"><strong>N+1 E-mail:</strong>${ceva.np1_email}</p>
+
+
+                    <p style="padding-left: 15px;"><strong>N+2 Nume:</strong>${ceva.np2_last_name}</p>
+                    <p style="padding-left: 15px;"><strong>N+2 Prenume:</strong>${ceva.np2_first_name}</p>
+                    <p style="padding-left: 15px;"><strong>N+2 Email:</strong>${ceva.np2_email}</p>
+
+
+
+                    <p style="padding-left: 15px;"><strong>N+3 Nume:</strong>${ceva.np3_last_name}</p>
+                    <p style="padding-left: 15px;"><strong>N+3 Prenume:</strong>${ceva.np3_first_name}</p>
+                    <p style="padding-left: 15px;"><strong>N+3 E-mail:</strong>${ceva.np3_email}</p>
+
+                    <p style="padding-left: 15px;"><strong>N+4 Nume:</strong>${ceva.np4_last_name}</p>
+                    <p style="padding-left: 15px;"><strong>N+4 Prenume:</strong>${ceva.np4_first_name}</p>
+                    <p style="padding-left: 15px;"><strong>N+4 E-mail:</strong>${ceva.np4_email}</p>
 
                             <c:if test="${not empty ceva.np5_code}">
 
-                            <p><strong>N+5 Marca:</strong>${ceva.np5_code}</p>
-                            <p><strong>N+5 Nume:</strong>${ceva.np5_last_name}</p>
-                            <p><strong>N+5 Prenume:</strong>${ceva.np5_first_name}</p>
-                            <p><strong>N+5 E-mail</strong>${ceva.np5_email}</p>
+
+                                <p style="padding-left: 15px;"><strong>N+5 Nume:</strong>${ceva.np5_last_name}</p>
+                                <p style="padding-left: 15px;"><strong>N+5 Prenume:</strong>${ceva.np5_first_name}</p>
+                                <p style="padding-left: 15px;"><strong>N+5 E-mail</strong>${ceva.np5_email}</p>
                             </c:if>
 
 
@@ -168,7 +169,7 @@
                 <div class = "col-md-6">
 
 
-                        <div class="panel panel-default text-center">
+                        <div class="panel panel-default text-center" style="margin-top: 10%;">
                             <div class="panel-heading">
                                 <h1>Delega drepturile pentru:</h1>${ceva.last_name} ${ceva.first_name}
                             </div>
@@ -176,6 +177,32 @@
                             <div class="panel-body">
 
 
+                                <input type="hidden" name="last_name" value="${ceva.last_name}">
+                                <input type="hidden" name="first_name" value="${ceva.first_name}">
+                                <input type="hidden" name="code" value="${ceva.code}">
+                                <input type="hidden" name="email" value="${ceva.email}">
+
+
+                                <input type="hidden" name="np2_code" value="${ceva.np2_code}">
+                                <input type="hidden" name="np2_last_name" value="${ceva.np2_last_name}">
+                                <input type="hidden" name="np2_first_name" value="${ceva.np2_first_name}">
+                                <input type="hidden" name="np2_email" value="${ceva.np2_email}">
+
+
+                                <input type="hidden" name="np3_code" value="${ceva.np3_code}">
+                                <input type="hidden" name="np3_last_name" value="${ceva.np3_last_name}">
+                                <input type="hidden" name="np3_first_name" value="${ceva.np3_first_name}">
+                                <input type="hidden" name="np3_email" value="${ceva.np3_email}">
+
+                                <input type="hidden" name="np4_code" value="${ceva.np4_code}">
+                                <input type="hidden" name="np4_last_name" value="${ceva.np4_last_name}">
+                                <input type="hidden" name="np4_first_name" value="${ceva.np4_first_name}">
+                                <input type="hidden" name="np4_email" value="${ceva.np4_email}">
+
+                                <input type="hidden" name="np5_code" value="${ceva.np5_code}">
+                                <input type="hidden" name="np5_last_name" value="${ceva.np5_last_name}">
+                                <input type="hidden" name="np5_first_name" value="${ceva.np5_first_name}">
+                                <input type="hidden" name="np5_email" value="${ceva.np5_email}">
 
 
 

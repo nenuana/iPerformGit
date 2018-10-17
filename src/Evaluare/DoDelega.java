@@ -69,42 +69,19 @@ public class DoDelega extends HttpServlet {
                // String emailbun = (String) session.getAttribute("email");
                 String Name = (String) session.getAttribute("Name");
                 String poza = (String) session.getAttribute("poza");
-                String email = request.getParameter("emailechipa");
+                //String email = request.getParameter("emailechipa");
                // String email = "ana-maria.nenu@raiffeisen.ro";
 
-                System.out.println("email");
-                System.out.println(email);
+                //System.out.println("email");
+               // System.out.println(email);
 
 
 
                 List list = null;
                 String errorString = null;
-                try {
-                    list = DBUtilis.infoangajat(conn,email);
-
-                    for (int i = 0;i< list.size();i++){
-                            System.out.println(list.get(i));
-                    }
-                    String np2_email = (String) list.get(0);
-                    String np2_first_name = (String) list.get(1);
-                    String np2_last_name = (String) list.get(2);
-                    String np2_code = (String) list.get(3);
 
 
-                    String np3_email = (String) list.get(4);
-                    String np3_first_name = (String) list.get(5);
-                    String np3_last_name = (String) list.get(6);
-                    String np3_code = (String) list.get(7);
 
-                    String np4_email = (String) list.get(8);
-                    String np4_first_name = (String) list.get(9);
-                    String np4_last_name = (String) list.get(10);
-                    String np4_code = (String) list.get(11);
-
-                    String np5_email = (String) list.get(12);
-                    String np5_first_name = (String) list.get(13);
-                    String np5_last_name = (String) list.get(14);
-                    String np5_code = (String) list.get(15);
 
                     String np1_email = request.getParameter("np1_email");
                     String np1_nume = request.getParameter("np1_nume");
@@ -112,15 +89,40 @@ public class DoDelega extends HttpServlet {
                     String np1_prenume = request.getParameter("np1_prenume");
                     String np1_marca = request.getParameter("np1_marca");
 
-                    String code = "";
-                    String last_name =  "";
-                    String first_name = "";
+                    String np2_email = request.getParameter("np2_email");
+                    String np2_last_name = request.getParameter("np2_last_name");
+
+                    String np2_first_name = request.getParameter("np2_first_name");
+                    String np2_code = request.getParameter("np2_code");
+
+                    String np3_email = request.getParameter("np3_email");
+                    String np3_last_name = request.getParameter("np3_last_name");
+
+                    String np3_first_name = request.getParameter("np3_first_name");
+                    String np3_code = request.getParameter("np3_code");
+
+                    String np4_email = request.getParameter("np4_email");
+                    String np4_last_name = request.getParameter("np4_last_name");
+
+                    String np4_first_name = request.getParameter("np4_first_name");
+                    String np4_code = request.getParameter("np4_code");
+
+                    String np5_email = request.getParameter("np5_email");
+                    String np5_last_name = request.getParameter("np5_last_name");
+
+                    String np5_first_name = request.getParameter("np5_first_name");
+                    String np5_code = request.getParameter("np5_code");
+
+                    String code = request.getParameter("code");
+
+                    String last_name =  request.getParameter("last_name");
+                    String first_name = request.getParameter("first_name");
+                    String email = request.getParameter("email");
+
+                    System.out.println(email);
+                    System.out.println("email");
 
 
-                    System.out.println(np1_email);
-                    System.out.println(np1_nume);
-                    System.out.println(np1_prenume);
-                    System.out.println(np1_marca);
 
                     Delegati delegati = new Delegati(code,last_name,first_name,email,np1_marca,np1_nume,np1_prenume,np1_email,np2_code,np2_last_name,np2_first_name,np2_email,np3_code,np3_last_name,np3_first_name,np3_email,np4_code,np4_last_name,np4_first_name,np4_email,np5_code,np5_last_name,np5_first_name,np5_email);
 
@@ -137,11 +139,7 @@ public class DoDelega extends HttpServlet {
                         System.out.println("suntaici3");
                     }
 
-                } catch (SQLException var233) {
-                    var233.printStackTrace();
-                    errorString = var233.getMessage();
-                    System.out.println(errorString);
-                }
+
                 if (errorString != null && list == null) {
                     response.sendRedirect(request.getServletPath() + "/home");
                 } else {
@@ -154,8 +152,8 @@ public class DoDelega extends HttpServlet {
                     conn.close();
                 }
             } catch (Exception var234) {
+                response.sendRedirect("index.jsp");
 
-                //  response.sendRedirect("/picturefail.jsp");
                 throw new RuntimeException(var234);
             }
         }

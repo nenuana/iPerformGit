@@ -54,9 +54,173 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>DoInsertValori</servlet-name>
-        <url-pattern>/doInsert</url-pattern>
+        <url-pattern>/doInsertCompetente</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>DoInsertCompetente</servlet-name>
+        <servlet-class>Evaluare.DoInsertCompetente</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoInsertCompetente</servlet-name>
+        <url-pattern>/doInsertCompetente</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>DoInsertObiectiv</servlet-name>
+        <servlet-class>Evaluare.DoInsertObiectiv</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoInsertObiectiv</servlet-name>
+        <url-pattern>/doInsertObiectiv</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>DoInsertObiectivClienti</servlet-name>
+        <servlet-class>Evaluare.DoInsertObiectivClienti</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoInsertObiectivClienti</servlet-name>
+        <url-pattern>/doInsertObiectivClienti</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoInsertObiectivProcese</servlet-name>
+        <servlet-class>Evaluare.DoInsertObiectivProcese</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoInsertObiectivProcese</servlet-name>
+        <url-pattern>/doInsertObiectivProcese</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoInsertObiectivOameni</servlet-name>
+        <servlet-class>Evaluare.DoInsertObiectivOameni</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoInsertObiectivOameni</servlet-name>
+        <url-pattern>/doInsertObiectivOameni</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoInsertObiectivInvatare</servlet-name>
+        <servlet-class>Evaluare.DoInsertObiectivInvatare</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoInsertObiectivInvatare</servlet-name>
+        <url-pattern>/doInsertObiectivInvatare</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoInsertRezultate</servlet-name>
+        <servlet-class>Evaluare.DoInsertRezultate</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoInsertRezultate</servlet-name>
+        <url-pattern>/doInsertRezultate</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoDeleteFinanciar</servlet-name>
+        <servlet-class>Evaluare.DoDeleteFinanciar</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoDeleteFinanciar</servlet-name>
+        <url-pattern>/doDeleteFinanciar</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>DoDeleteClienti</servlet-name>
+        <servlet-class>Evaluare.DoDeleteClienti</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoDeleteClienti</servlet-name>
+        <url-pattern>/doDeleteClienti</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoDeleteProcese</servlet-name>
+        <servlet-class>Evaluare.DoDeleteProcese</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoDeleteProcese</servlet-name>
+        <url-pattern>/doDeleteProcese</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>PerspectiveParametru</servlet-name>
+        <servlet-class>Evaluare.PerspectiveParametru</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>PerspectiveParametru</servlet-name>
+        <url-pattern>/PerspectiveParametru</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoDeleteOameni</servlet-name>
+        <servlet-class>Evaluare.DoDeleteOameni</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoDeleteOameni</servlet-name>
+        <url-pattern>/doDeleteOameni</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoDeleteInvatare</servlet-name>
+        <servlet-class>Evaluare.DoDeleteInvatare</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoDeleteInvatare</servlet-name>
+        <url-pattern>/doDeleteInvatare</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoUpdateFinanciar</servlet-name>
+        <servlet-class>Evaluare.DoUpdateFinanciar</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoUpdateFinanciar</servlet-name>
+        <url-pattern>/doUpdateFinanciar</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>DoUpdateClienti</servlet-name>
+        <servlet-class>Evaluare.DoUpdateClienti</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoUpdateClienti</servlet-name>
+        <url-pattern>/doUpdateClienti</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>DoUpdateProcese</servlet-name>
+        <servlet-class>Evaluare.DoUpdateProcese</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoUpdateProcese</servlet-name>
+        <url-pattern>/doUpdateProcese</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>DoUpdateOameni</servlet-name>
+        <servlet-class>Evaluare.DoUpdateOameni</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoUpdateOameni</servlet-name>
+        <url-pattern>/doUpdateOameni</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>DoUpdateInvatare</servlet-name>
+        <servlet-class>Evaluare.DoUpdateInvatare</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoUpdateInvatare</servlet-name>
+        <url-pattern>/doUpdateInvatare</url-pattern>
+    </servlet-mapping>
 
     <servlet>
         <servlet-name>IesireEchipa</servlet-name>
@@ -93,5 +257,13 @@
     <servlet-mapping>
         <servlet-name>Delega</servlet-name>
         <url-pattern>/delega</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>DoInsertValori</servlet-name>
+        <servlet-class>Evaluare.DoInsertValori</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoInsertValori</servlet-name>
+        <url-pattern>/doInsertValori</url-pattern>
     </servlet-mapping>
 </web-app>

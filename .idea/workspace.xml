@@ -5,9 +5,65 @@
       <artifact name="iPerform:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/web/stilizare.css" description="&#10;#overlay {&#10;    position: fixed;&#10;    display: none..." line="635" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5a9ffe3-b512-473f-84ae-c887ce1fdaf2" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/../iPerform/out/" />
+    <list default="true" id="a5a9ffe3-b512-473f-84ae-c887ce1fdaf2" name="Default" comment="[dev] -new update">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/Competente.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteClienti.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteFinanciar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteInvatare.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteOameni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteProcese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertCompetente.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectiv.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivClienti.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivInvatare.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivOameni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivProcese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertRezultate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateClienti.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateFinanciar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateInvatare.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateOameni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateProcese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/ObiectiveCentrala.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/ObiectiveRetea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/PerspectiveParametru.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/Rezultate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/echipaDetalii.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/insertAng.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/AppEngine_API.xml" afterPath="$PROJECT_DIR$/.idea/libraries/AppEngine_API.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/AppEngine_ORM.xml" afterPath="$PROJECT_DIR$/.idea/libraries/AppEngine_ORM.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iPerform.iml" afterPath="$PROJECT_DIR$/iPerform.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/DBUtilis.java" afterPath="$PROJECT_DIR$/src/Evaluare/DBUtilis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/Delega.java" afterPath="$PROJECT_DIR$/src/Evaluare/Delega.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/DoDelega.java" afterPath="$PROJECT_DIR$/src/Evaluare/DoDelega.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/DoInsertValori.java" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertValori.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/EchipaFrunza.java" afterPath="$PROJECT_DIR$/src/Evaluare/EchipaFrunza.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/EchipaMea.java" afterPath="$PROJECT_DIR$/src/Evaluare/EchipaMea.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/Home.java" afterPath="$PROJECT_DIR$/src/Evaluare/Home.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/IesireEchipa.java" afterPath="$PROJECT_DIR$/src/Evaluare/IesireEchipa.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/LoginServlet.java" afterPath="$PROJECT_DIR$/src/Evaluare/LoginServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/Perspective.java" afterPath="$PROJECT_DIR$/src/Evaluare/Perspective.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/Valori.java" afterPath="$PROJECT_DIR$/src/Evaluare/Valori.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/ValoriServlet.java" afterPath="$PROJECT_DIR$/src/Evaluare/ValoriServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/delega.jsp" afterPath="$PROJECT_DIR$/web/delega.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/echipamea.jsp" afterPath="$PROJECT_DIR$/web/echipamea.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/home.jsp" afterPath="$PROJECT_DIR$/web/home.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/perspective.jsp" afterPath="$PROJECT_DIR$/web/perspective.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/stilizare.css" afterPath="$PROJECT_DIR$/web/stilizare.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/valori.jsp" afterPath="$PROJECT_DIR$/web/valori.jsp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,120 +92,258 @@
     <option name="hideWarnings" value="true" />
     <option name="HIDE_WARNINGS" value="true" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="DBUtilis.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DBUtilis.java">
+        <entry file="file://$PROJECT_DIR$/src/Evaluare/DBUtilis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1659">
-              <caret line="81" column="43" lean-forward="false" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+            <state relative-caret-position="150">
+              <caret line="2064" column="34" lean-forward="false" selection-start-line="2064" selection-start-column="23" selection-end-line="2064" selection-end-column="34" />
               <folding>
-                <marker date="1513936525775" expanded="true" signature="263:388" ph="Select a.las... employee" />
-                <marker date="1513936525775" expanded="true" signature="263:409" ph="Select a.las... employee" />
-                <marker date="1513936525775" expanded="true" signature="1261:1611" ph="Select np2_c... employee_superior" />
-                <marker date="1513936525775" expanded="true" signature="4922:5244" ph="Select a.int... Valori" />
-                <marker date="1513936525775" expanded="true" signature="7389:7577" ph="Insert into valori... " />
-                <marker date="1513936525775" expanded="true" signature="7389:7658" ph="Insert into inregistrarewfh... " />
-                <marker date="1513936525775" expanded="true" signature="8645:9103" ph="Insert into delegati... " />
-                <marker date="1513936525775" expanded="true" signature="10614:10941" ph="Update valor... " />
-                <marker date="1513936525775" expanded="true" signature="12026:12075" ph="Select code employee" />
-                <marker date="1513936525775" expanded="true" signature="12488:12552" ph="SELECT email... employee_superior" />
-                <marker date="1513936525775" expanded="true" signature="13005:13069" ph="SELECT email... employee_superior" />
-                <marker date="1513936525775" expanded="true" signature="13537:13597" ph="Select emplo... valori" />
+                <marker date="1538326094000" expanded="true" signature="265:460" ph="SELECT a.cod... " />
+                <marker date="1538326094000" expanded="true" signature="265:671" ph="SELECT a.cod... employee_all" />
+                <marker date="1538326094000" expanded="true" signature="265:673" ph="SELECT a.cod... employee_all" />
+                <marker date="1538326094000" expanded="true" signature="265:707" ph="SELECT a.cod... employee_all" />
+                <marker date="1538326094000" expanded="true" signature="3238:3663" ph="Select a.las... employee" />
+                <marker date="1538326094000" expanded="true" signature="3238:3685" ph="Select a.las... employee" />
+                <marker date="1538326094000" expanded="true" signature="6214:6568" ph="Select code,... employee_superior" />
+                <marker date="1538326094000" expanded="true" signature="9880:10128" ph="Select a.int... " />
+                <marker date="1538326094000" expanded="true" signature="9880:10465" ph="Select a.int... valori" />
+                <marker date="1538326094000" expanded="true" signature="14414:14577" ph="Select a.abi... valori" />
+                <marker date="1538326094000" expanded="true" signature="14414:14592" ph="Select a.abi... competente" />
+                <marker date="1538326094000" expanded="true" signature="15801:16082" ph="Select a.fin... rezultate" />
+                <marker date="1538326094000" expanded="true" signature="18404:18507" ph="Insert into valori... " />
+                <marker date="1538326094000" expanded="true" signature="18404:18736" ph="Insert into valori... " />
+                <marker date="1538326094000" expanded="true" signature="18404:18936" ph="Insert into valori... " />
+                <marker date="1538326094000" expanded="true" signature="20675:20791" ph="Insert into competente... " />
+                <marker date="1538326094000" expanded="true" signature="21342:21518" ph="insert into employee_ram... " />
+                <marker date="1538326094000" expanded="true" signature="22351:22584" ph="Insert into rezultate... " />
+                <marker date="1538326094000" expanded="true" signature="23818:24276" ph="Insert into delegati... " />
+                <marker date="1538326094000" expanded="true" signature="25787:26210" ph="Update valor... " />
+                <marker date="1538326094000" expanded="true" signature="25787:26436" ph="Update valor... " />
+                <marker date="1538326094000" expanded="true" signature="28285:28408" ph="Update compe... " />
+                <marker date="1538326094000" expanded="true" signature="28939:29196" ph="Update rezul... " />
+                <marker date="1538326094000" expanded="true" signature="30428:30481" ph="Select code employee" />
+                <marker date="1538326094000" expanded="true" signature="30904:30954" ph="Select poza rezultate" />
+                <marker date="1538326094000" expanded="true" signature="31402:31470" ph="SELECT email... employee_superior" />
+                <marker date="1538326094000" expanded="true" signature="31905:31959" ph="SELECT unit employee" />
+                <marker date="1538326094000" expanded="true" signature="32419:32487" ph="SELECT email... employee_superior" />
+                <marker date="1538326094000" expanded="true" signature="32927:32985" ph="SELECT email... delegati" />
+                <marker date="1538326094000" expanded="true" signature="33422:33493" ph="Select super... employee" />
+                <marker date="1538326094000" expanded="true" signature="33970:34030" ph="Select emplo... valori" />
+                <marker date="1538326094000" expanded="true" signature="34508:34579" ph="Select count... obiective" />
+                <marker date="1538326094000" expanded="true" signature="34508:34619" ph="Select count... obiective" />
+                <marker date="1538326094000" expanded="true" signature="35115:35320" ph="Select RESUL... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="36675:36780" ph="Delete from " />
+                <marker date="1538326094000" expanded="true" signature="37126:37312" ph="Update rezul... " />
+                <marker date="1538326094000" expanded="true" signature="37944:38162" ph="Insert into obiectivecentrala... " />
+                <marker date="1538326094000" expanded="true" signature="39058:39167" ph="Select count... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="39652:39855" ph="Select RESUL... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="41206:41309" ph="Delete from " />
+                <marker date="1538326094000" expanded="true" signature="41654:41839" ph="Update obiec... " />
+                <marker date="1538326094000" expanded="true" signature="42476:42677" ph="Select RESUL... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="44013:44121" ph="Select count... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="44575:44677" ph="Delete from " />
+                <marker date="1538326094000" expanded="true" signature="45021:45205" ph="Update obiec... " />
+                <marker date="1538326094000" expanded="true" signature="45782:45824" ph="Update rezul... " />
+                <marker date="1538326094000" expanded="true" signature="46169:46365" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="47681:47877" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="49192:49388" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="50703:50899" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="52262:52315" ph="Select marca... competente" />
+                <marker date="1538326094000" expanded="true" signature="52819:52878" ph="Select marca... competente" />
+                <marker date="1538326094000" expanded="true" signature="52819:52941" ph="Select ENTIT... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="53442:53562" ph="Select ENTIT... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="54061:54180" ph="Select ENTIT... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="54678:54797" ph="Select ENTIT... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="55293:55411" ph="Select ENTIT... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="55956:56063" ph="Select ID AS... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="56561:56671" ph="Select ID AS... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="57165:57272" ph="Select ID AS... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="57768:57876" ph="Select ID AS... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="58368:58474" ph="Select ID AS... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="58916:58968" ph="Select marca... rezultate" />
+                <marker date="1538326094000" expanded="true" signature="59415:59613" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="60929:61127" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="62442:62640" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="63956:64154" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="65444:65558" ph="Select ID fr... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="65993:66105" ph="Select ID AS... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="66543:66654" ph="Select ID AS... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="67089:67201" ph="Select ID AS... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="67634:67744" ph="Select ID AS... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="68199:68307" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="68985:69164" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="68985:69180" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="70496:70691" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="72007:72202" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="73518:73713" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="75022:75128" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="75781:75886" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="76540:76645" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="77299:77403" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="78105:78306" ph="Select RESUL... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="79639:79747" ph="Select count... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="80201:80303" ph="Delete from " />
+                <marker date="1538326094000" expanded="true" signature="80647:80830" ph="Update obiec... " />
+                <marker date="1538326094000" expanded="true" signature="81441:81619" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="81441:81635" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="82951:83144" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="82951:83145" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="84461:84654" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="84461:84655" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="85971:86165" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="87519:87719" ph="Select RESUL... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="89053:89160" ph="Select count... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="89613:89714" ph="Delete from " />
+                <marker date="1538326094000" expanded="true" signature="90057:90239" ph="Update obiec... " />
+                <marker date="1538326094000" expanded="true" signature="90849:91026" ph="Select OBJEC... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="90849:91040" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="92353:92544" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="93857:94048" ph="Select ID,OB... obiectivecentrala" />
+                <marker date="1538326094000" expanded="true" signature="95361:95552" ph="Select ID,OB... obiectivecentrala" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EchipaMea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaMea.java">
+      <file leaf-file-name="valori.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/valori.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1617">
-              <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="92" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Delegati.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Delegati.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1281">
-              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DoInsertValori.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DoInsertValori.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3927">
-              <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="209" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Delega.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Delega.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1323">
-              <caret line="77" column="42" lean-forward="false" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+            <state relative-caret-position="303">
+              <caret line="204" column="84" lean-forward="false" selection-start-line="204" selection-start-column="84" selection-end-line="204" selection-end-column="84" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoDelega.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DoDelega.java">
+      <file leaf-file-name="home.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2793">
-              <caret line="147" column="17" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="56" />
+            <state relative-caret-position="1865">
+              <caret line="2024" column="0" lean-forward="false" selection-start-line="2024" selection-start-column="0" selection-end-line="2024" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#button#0;n#div#5;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#c:forEach#1;n#jsp:root#0;n#!!top" expanded="false" />
+                <element signature="n#c:forEach#2;n#jsp:root#0;n#!!top" expanded="false" />
+                <element signature="n#c:forEach#3;n#jsp:root#0;n#!!top" expanded="false" />
+                <element signature="n#c:forEach#4;n#jsp:root#0;n#!!top" expanded="false" />
+                <element signature="n#c:forEach#5;n#jsp:root#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="echipamea.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../iPerform/web/echipamea.jsp">
+        <entry file="file://$PROJECT_DIR$/web/echipamea.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4998">
-              <caret line="238" column="27" lean-forward="false" selection-start-line="238" selection-start-column="27" selection-end-line="238" selection-end-column="27" />
+            <state relative-caret-position="-298">
+              <caret line="216" column="40" lean-forward="true" selection-start-line="216" selection-start-column="40" selection-end-line="216" selection-end-column="54" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="perspective.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/perspective.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="284" column="66" lean-forward="false" selection-start-line="284" selection-start-column="66" selection-end-line="284" selection-end-column="66" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#a#0;n#li#0;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#a#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#a#0;n#li#3;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#form#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rezultate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Evaluare/Rezultate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+              <folding>
+                <element signature="e#1779#1780#0" expanded="true" />
+                <element signature="e#1831#1832#0" expanded="true" />
+                <element signature="e#3793#3794#0" expanded="true" />
+                <element signature="e#3847#3848#0" expanded="true" />
+                <element signature="e#3889#3890#0" expanded="true" />
+                <element signature="e#3927#3928#0" expanded="true" />
+                <element signature="e#4086#4087#0" expanded="true" />
+                <element signature="e#4125#4126#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EchipaFrunza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Evaluare/EchipaFrunza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="100" column="47" lean-forward="false" selection-start-line="100" selection-start-column="47" selection-end-line="100" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObiectiveCentrala.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Evaluare/ObiectiveCentrala.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="42" column="33" lean-forward="false" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+              <folding>
+                <element signature="e#1287#1288#0" expanded="true" />
+                <element signature="e#1345#1346#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../iPerform/web/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1848">
-              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="95" selection-end-column="22" />
+            <state relative-caret-position="316">
+              <caret line="261" column="22" lean-forward="false" selection-start-line="261" selection-start-column="22" selection-end-line="261" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/web.xml">
+      <file leaf-file-name="stilizare.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/stilizare.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1764">
-              <caret line="84" column="44" lean-forward="false" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delega.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../iPerform/web/delega.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="813">
-              <caret line="172" column="96" lean-forward="false" selection-start-line="172" selection-start-column="96" selection-end-line="172" selection-end-column="96" />
+            <state relative-caret-position="160">
+              <caret line="410" column="0" lean-forward="true" selection-start-line="410" selection-start-column="0" selection-end-line="410" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -160,36 +354,53 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="Jsp File" />
+        <option value="CSS File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mare</find>
-      <find>qanda</find>
-      <find>v1</find>
-      <find>label</find>
+      <find>nrclienti</find>
+      <find>procese</find>
+      <find>Detalii</find>
+      <find>nrfinanciar</find>
+      <find>salveaza</find>
+      <find>poza</find>
+      <find>q1</find>
+      <find>parametruoameni</find>
+      <find>parametruprocese</find>
+      <find>parametrufina</find>
+      <find>parametru</find>
+      <find>parametruin</find>
+      <find>OBJECTIVE_DESCRIPTION_OAMENI</find>
+      <find>OBJECTIVE_DESCRIPTION_in</find>
+      <find>marca</find>
+      <find>updateoamen</find>
+      <find>nota</find>
+      <find>p</find>
+      <find>.p</find>
+      <find>toolti</find>
+      <find>nota_discern</find>
+      <find>rezultate</find>
+      <find>Rezulta</find>
+      <find>p{</find>
+      <find>Perspect</find>
+      <find>chart</find>
+      <find>piechart</find>
       <find>detalii</find>
-      <find>butonfaq</find>
-      <find>adauga</find>
-      <find>top</find>
-      <find>conta</find>
-      <find>cont</find>
-      <find>nota_discernamant</find>
-      <find>simpl</find>
-      <find>mail</find>
-      <find>col-md-4</find>
-      <find>if</find>
-      <find>iPer</find>
-      <find>iPe</find>
-      <find>verififsuperior</find>
-      <find>unit</find>
-      <find>insert</find>
-      <find>infoanga</find>
+      <find>menu3</find>
+      <find>salvea</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ana" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -199,36 +410,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/../iPerform/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/home.jsp" />
-        <option value="$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/valori.jsp" />
-        <option value="$PROJECT_DIR$/../iPerform/web/perspective..jsp" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Employee.java" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/EmployeeSuperior.java" />
-        <option value="$PROJECT_DIR$/../iPerform/web/stilizare.css" />
-        <option value="$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/appengine-web.xml" />
-        <option value="$PROJECT_DIR$/../iPerform/web/WEB-INF/appengine-web.xml" />
-        <option value="$PROJECT_DIR$/../iPerform/web/index.jsp" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/ValoriServlet.java" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/DoInsertValori.java" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Home.java" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Perspective.java" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/IesireEchipa.java" />
-        <option value="$PROJECT_DIR$/../iPerform/web/perspective.jsp" />
-        <option value="$PROJECT_DIR$/../iPerform/web/home.jsp" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaMea.java" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Delegati.java" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/DoDelega.java" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Valori.java" />
-        <option value="$PROJECT_DIR$/../iPerform/web/valori.jsp" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaFrunza.java" />
-        <option value="$PROJECT_DIR$/../iPerform/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../iPerform/web/echipamea.jsp" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/Delega.java" />
-        <option value="$PROJECT_DIR$/../iPerform/src/Evaluare/DBUtilis.java" />
-        <option value="$PROJECT_DIR$/../iPerform/web/delega.jsp" />
+        <option value="$PROJECT_DIR$/src/Evaluare/Competente.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/Perspectiveview.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/Compententeview.java" />
+        <option value="$PROJECT_DIR$/web/competente.jsp" />
+        <option value="$PROJECT_DIR$/web/delega.jsp" />
+        <option value="$PROJECT_DIR$/src/Evaluare/ObiectiveRetea.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoUpdateInvarare.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/Evaluare/Rezultate.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/ValoriServlet.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/Delega.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoDelega.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoInsertCompetente.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoInsertValori.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/IesireEchipa.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/PerspectiveParametru.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/Valori.java" />
+        <option value="$PROJECT_DIR$/web/insertAng.jsp" />
+        <option value="$PROJECT_DIR$/src/Evaluare/doInsertEmployeeRam.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivProcese.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoDeleteProcese.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoInsertObiectiv.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivClienti.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivInvatare.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivOameni.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoDeleteFinanciar.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoDeleteInvatare.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoDeleteClienti.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoDeleteOameni.java" />
+        <option value="$PROJECT_DIR$/web/font-awesome.css" />
+        <option value="$PROJECT_DIR$/src/Evaluare/Perspective.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/echipaDetalii.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/Evaluare/ObiectiveCentrala.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoUpdateFinanciar.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoUpdateClienti.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoUpdateInvatare.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoUpdateProcese.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/web/echipamea.jsp" />
+        <option value="$PROJECT_DIR$/src/Evaluare/EchipaMea.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/EchipaFrunza.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/Home.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoInsertRezultate.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DoUpdateOameni.java" />
+        <option value="$PROJECT_DIR$/src/Evaluare/DBUtilis.java" />
+        <option value="$PROJECT_DIR$/web/valori.jsp" />
+        <option value="$PROJECT_DIR$/web/stilizare.css" />
+        <option value="$PROJECT_DIR$/web/perspective.jsp" />
+        <option value="$PROJECT_DIR$/web/home.jsp" />
       </list>
     </option>
   </component>
@@ -247,10 +479,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="89" />
-    <option name="width" value="1645" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -267,6 +499,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -278,85 +511,24 @@
             <path>
               <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
               <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="libraries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
               <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
               <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Evaluare" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
               <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="iPerform_war_exploded" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iPerform" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Evaluare" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iPerform" type="b2602c69:ProjectViewProjectNode" />
@@ -374,7 +546,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -382,8 +553,8 @@
     <property name="nodejs_interpreter_path" value="D:/NodeJS/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../iPerform" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -479,7 +650,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../iPerform" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -585,57 +756,185 @@
       <workItem from="1513842677519" duration="7667000" />
       <workItem from="1513927614316" duration="11854000" />
       <workItem from="1514367731542" duration="156000" />
+      <workItem from="1514369599103" duration="812000" />
+      <workItem from="1514968005920" duration="2422000" />
+      <workItem from="1514975919576" duration="13333000" />
+      <workItem from="1515137096116" duration="10636000" />
+      <workItem from="1515401065105" duration="8937000" />
+      <workItem from="1515498533675" duration="2723000" />
+      <workItem from="1515667668395" duration="14696000" />
+      <workItem from="1516882213142" duration="50668000" />
+      <workItem from="1518436113971" duration="1996000" />
+      <workItem from="1518438228493" duration="841000" />
+      <workItem from="1518439380256" duration="457000" />
+      <workItem from="1518439955439" duration="561000" />
+      <workItem from="1518440558925" duration="428000" />
+      <workItem from="1518441099567" duration="3097000" />
+      <workItem from="1518471185140" duration="3642000" />
+      <workItem from="1518510946887" duration="52000" />
+      <workItem from="1518511004193" duration="409000" />
+      <workItem from="1518511460018" duration="516000" />
+      <workItem from="1518512101588" duration="210000" />
+      <workItem from="1518512321103" duration="453000" />
+      <workItem from="1518512847588" duration="376000" />
+      <workItem from="1518513240654" duration="672000" />
+      <workItem from="1518514003186" duration="499000" />
+      <workItem from="1518514552663" duration="236000" />
+      <workItem from="1518514811805" duration="236000" />
+      <workItem from="1518515053810" duration="195000" />
+      <workItem from="1518515256057" duration="453000" />
+      <workItem from="1518515716970" duration="717000" />
+      <workItem from="1518516640941" duration="225000" />
+      <workItem from="1518516903178" duration="2101000" />
+      <workItem from="1518527072942" duration="638000" />
+      <workItem from="1518528016859" duration="602000" />
+      <workItem from="1518528657955" duration="87000" />
+      <workItem from="1518528752616" duration="849000" />
+      <workItem from="1518530040873" duration="966000" />
+      <workItem from="1518531206016" duration="288000" />
+      <workItem from="1518531552645" duration="265000" />
+      <workItem from="1518531998786" duration="1008000" />
+      <workItem from="1518533334228" duration="856000" />
+      <workItem from="1518535060504" duration="1332000" />
+      <workItem from="1518536823454" duration="80273000" />
+      <workItem from="1520951316725" duration="247000" />
+      <workItem from="1520951572707" duration="1345000" />
+      <workItem from="1520953769183" duration="30532000" />
+      <workItem from="1521104224687" duration="73765000" />
+      <workItem from="1522923258476" duration="11095000" />
+      <workItem from="1523027800269" duration="34595000" />
+      <workItem from="1524554410839" duration="2600000" />
+      <workItem from="1524558605112" duration="28949000" />
+      <workItem from="1525866898592" duration="2363000" />
+      <workItem from="1525869486200" duration="17988000" />
+      <workItem from="1526570652853" duration="9173000" />
+      <workItem from="1527231693447" duration="17340000" />
+      <workItem from="1531809494722" duration="8497000" />
+      <workItem from="1532417021385" duration="50547000" />
+      <workItem from="1537906602932" duration="308000" />
+      <workItem from="1537906944333" duration="1015000" />
+      <workItem from="1537908225013" duration="43292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259668000" />
+    <option name="totallyTimeSpent" value="803082000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21266969" sideWeight="0.08700322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39253393" sideWeight="0.91299677" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.030075189" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.4935553" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32851985" sideWeight="0.490232" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32490975" sideWeight="0.46398047" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60048133" sideWeight="0.17399268" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22043628" sideWeight="0.8260073" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8351384" sideWeight="0.8223443" order="8" side_tool="true" content_ui="tabs" x="121" y="680" width="1231" height="432" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.023199024" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.4935553" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8351384" sideWeight="0.17765568" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3537906" sideWeight="0.25518927" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20408164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.015574651" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2771673" sideWeight="0.6702317" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2771673" sideWeight="0.32976827" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07020757" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.015262515" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.4935553" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22043628" sideWeight="0.8260073" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32490975" sideWeight="0.53357756" order="8" side_tool="true" content_ui="tabs" x="121" y="680" width="1231" height="432" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.023199024" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07020757" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.015262515" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32851985" sideWeight="0.490232" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32490975" sideWeight="0.46642247" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60048133" sideWeight="0.17399268" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.4935553" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8351384" sideWeight="0.17887668" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3537906" sideWeight="0.25518927" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2771673" sideWeight="0.6702317" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2771673" sideWeight="0.32976827" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[dev] -new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="[dev] -new update" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="32" />
+      <option name="time" value="50" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -644,669 +943,570 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../iPerform/.idea/sqldialects.xml">
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/Competente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="219" column="42" lean-forward="false" selection-start-line="219" selection-start-column="42" selection-end-line="219" selection-end-column="42" />
+        <state relative-caret-position="-205">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/META-INF/jdoconfig.xml">
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/Delegati.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/LoginServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/perspective..jsp" />
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/integritate.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/perspective.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1513603582144" expanded="false" signature="2515:2529" ph="..." />
-            <marker date="1513603582144" expanded="true" signature="22212:22255" ph="..." />
-            <marker date="1513603582144" expanded="true" signature="22212:22282" ph="..." />
-            <marker date="1513603582144" expanded="true" signature="22212:22305" ph="..." />
-            <marker date="1513603582144" expanded="true" signature="22212:22324" ph="..." />
-            <marker date="1513603582144" expanded="true" signature="22212:22339" ph="..." />
-            <marker date="1513603582144" expanded="true" signature="22212:22350" ph="..." />
-            <marker date="1513603582144" expanded="true" signature="22212:22357" ph="..." />
-            <marker date="1513603582144" expanded="true" signature="22391:22688" ph="..." />
-            <marker date="1513603582144" expanded="true" signature="22409:22677" ph="{...}" />
-            <marker date="1513603582144" expanded="true" signature="22458:22539" ph="{...}" />
-            <marker date="1513603582144" expanded="true" signature="22588:22669" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="120" column="18" lean-forward="false" selection-start-line="120" selection-start-column="18" selection-end-line="120" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/respect.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/production/iPerform/Evaluare/Home.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/pasiune.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/simplitate.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/stilizare.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="168" column="2" lean-forward="false" selection-start-line="168" selection-start-column="2" selection-end-line="168" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/appengine-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/Home.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/production/iPerform/Evaluare/DBUtilis.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="365" column="19" lean-forward="false" selection-start-line="365" selection-start-column="19" selection-end-line="365" selection-end-column="19" />
-          <folding>
-            <marker date="1513603582155" expanded="false" signature="2775:2789" ph="..." />
-            <marker date="1513603582155" expanded="false" signature="3756:3759" ph="..." />
-            <marker date="1513603582155" expanded="true" signature="3853:3934" ph="..." />
-            <marker date="1513603582155" expanded="true" signature="3882:3926" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/Valori.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/DBUtilis.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/ValoriServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/iPerform.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/valori.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20685">
-          <caret line="987" column="0" lean-forward="false" selection-start-line="987" selection-start-column="0" selection-end-line="987" selection-end-column="0" />
-          <folding>
-            <marker date="1513759290784" expanded="true" signature="6520:6563" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="6603:38407" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="6637:10563" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="6679:10555" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="6706:7526" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="6730:7518" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="6763:6905" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="6872:6889" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="6939:7506" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="6970:7112" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7011:7093" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7144:7491" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7185:7472" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7556:10089" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7579:10080" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7611:8876" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7641:8860" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7682:7832" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="7791:7808" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7872:8777" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="7948:7965" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="7966:8754" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="8817:8841" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="8917:8932" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="8933:10068" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="8963:10052" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="9004:9154" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="9113:9130" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="9194:9969" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="9256:9273" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="9274:9946" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10009:10033" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10120:10520" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10144:10512" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10177:10333" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="10278:10287" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10366:10501" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="10445:10473" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10598:15159" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10644:15151" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10679:11639" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10711:11623" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10752:10906" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="10865:10882" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10948:11603" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="10987:11157" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="11036:11130" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="11197:11580" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="11246:11553" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="11685:14593" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="11716:14576" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="11756:13180" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="11794:13156" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="11843:12009" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="11960:11977" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="12057:13049" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="12137:12154" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="12155:13018" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="13097:13129" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="13229:13244" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="13245:14556" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="13283:14532" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="13332:13498" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="13449:13466" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="13546:14425" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="13616:13633" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="13634:14394" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="14473:14505" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="14640:15096" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="14672:15080" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="14713:14873" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="14814:14823" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="14914:15061" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="14997:15025" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15194:19764" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15240:19756" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15275:16238" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15307:16222" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15348:15503" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="15462:15479" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15545:16202" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15584:15755" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15633:15728" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15795:16179" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="15844:16152" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="16284:19196" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="16315:19179" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="16355:17783" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="16393:17759" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="16442:16608" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="16559:16576" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="16656:17652" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="16737:16754" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="16755:17621" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="17700:17732" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="17832:17847" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="17848:19159" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="17886:19135" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="17935:18101" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="18052:18069" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="18149:19028" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="18219:18236" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="18237:18997" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19076:19108" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19243:19701" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19275:19685" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19316:19478" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="19418:19427" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19519:19666" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="19602:19630" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19799:24386" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19845:24378" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19880:20849" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19912:20833" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="19953:20110" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="20069:20086" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="20152:20813" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="20191:20364" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="20240:20337" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="20404:20790" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="20453:20763" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="20895:23814" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="20926:23797" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="20966:22401" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="21004:22377" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="21053:21219" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="21170:21187" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="21267:22270" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="21350:21367" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="21368:22239" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="22318:22350" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="22450:22465" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="22466:23777" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="22504:23753" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="22553:22719" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="22670:22687" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="22767:23646" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="22837:22854" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="22855:23615" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="23694:23726" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="23861:24323" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="23893:24307" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="23934:24100" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="24038:24047" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="24141:24288" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="24224:24252" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="24421:29012" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="24467:29004" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="24502:25471" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="24534:25455" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="24575:24732" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="24691:24708" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="24774:25435" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="24813:24986" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="24862:24959" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="25026:25412" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="25075:25385" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="25517:28439" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="25548:28422" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="25588:27026" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="25626:27002" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="25675:25841" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="25792:25809" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="25889:26895" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="25976:25993" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="25994:26864" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="26943:26975" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="27075:27090" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="27091:28402" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="27129:28378" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="27178:27344" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="27295:27312" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="27392:28271" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="27462:27479" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="27480:28240" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="28319:28351" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="28486:28949" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="28518:28933" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="28559:28726" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="28643:28652" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="28767:28914" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="28850:28878" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29047:33608" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29093:33600" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29128:30088" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29160:30072" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29201:29355" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="29314:29331" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29397:30052" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29436:29606" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29485:29579" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29646:30029" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="29695:30002" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="30134:33042" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="30165:33025" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="30205:31629" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="30243:31605" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="30292:30458" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="30409:30426" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="30506:31498" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="30586:30603" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="30604:31467" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="31546:31578" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="31678:31693" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="31694:33005" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="31732:32981" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="31781:31947" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="31898:31915" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="31995:32874" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="32065:32082" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="32083:32843" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="32922:32954" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33089:33545" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33121:33529" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33162:33322" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="33263:33272" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33363:33510" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="33446:33474" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33643:38246" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33689:38238" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33724:34699" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33756:34683" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33797:33956" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="33915:33932" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="33998:34663" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="34037:34212" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="34086:34185" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="34252:34640" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="34301:34613" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="34745:37670" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="34776:37653" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="34816:36257" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="34854:36233" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="34903:35069" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="35020:35037" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="35117:36126" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="35202:35219" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="35220:36095" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="36174:36206" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="36306:36321" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="36322:37633" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="36360:37609" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="36409:36575" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="36526:36543" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="36623:37502" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="36693:36710" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="36711:37471" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="37550:37582" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="37717:38183" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="37749:38167" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="37790:37960" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="37874:37883" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="38001:38148" ph="..." />
-            <marker date="1513759290784" expanded="false" signature="38084:38112" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="38273:38398" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="38320:38391" ph="..." />
-            <marker date="1513759290784" expanded="true" signature="38408:38415" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Perspective.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1407">
-          <caret line="86" column="58" lean-forward="true" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/IesireEchipa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/perspective.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="87" column="42" lean-forward="true" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="156" column="0" lean-forward="true" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="70" column="5" lean-forward="false" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
-          <folding>
-            <element signature="e#2441#2442#0" expanded="false" />
-            <element signature="e#2475#2476#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/caluti.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/classes/Evaluare/DoInsertValori.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/ValoriServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Valori.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2037">
-          <caret line="111" column="48" lean-forward="false" selection-start-line="111" selection-start-column="48" selection-end-line="111" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/valori.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3213">
-          <caret line="153" column="96" lean-forward="false" selection-start-line="153" selection-start-column="96" selection-end-line="153" selection-end-column="96" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/echipamea.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <marker date="1513931726515" expanded="false" signature="5016:5025" ph="..." />
-            <marker date="1513931726515" expanded="true" signature="9139:10697" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/EmployeeSuperior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaFrunza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1722">
-          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="154" column="10" lean-forward="true" selection-start-line="154" selection-start-column="10" selection-end-line="154" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/discernamant.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/WEB-INF/appengine-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="95" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/out/artifacts/iPerform_war_exploded/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1764">
-          <caret line="84" column="44" lean-forward="false" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/EchipaMea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1617">
-          <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="92" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DoInsertValori.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3927">
-          <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="209" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/echipamea.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4998">
-          <caret line="238" column="27" lean-forward="false" selection-start-line="238" selection-start-column="27" selection-end-line="238" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DoDelega.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2793">
-          <caret line="147" column="17" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Delegati.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1281">
+        <state relative-caret-position="537">
           <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/Delega.java">
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/Delega.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="77" column="42" lean-forward="false" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/src/Evaluare/DBUtilis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1659">
-          <caret line="81" column="43" lean-forward="false" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
-          <folding>
-            <marker date="1513936525775" expanded="true" signature="263:388" ph="Select a.las... employee" />
-            <marker date="1513936525775" expanded="true" signature="263:409" ph="Select a.las... employee" />
-            <marker date="1513936525775" expanded="true" signature="1261:1611" ph="Select np2_c... employee_superior" />
-            <marker date="1513936525775" expanded="true" signature="4922:5244" ph="Select a.int... Valori" />
-            <marker date="1513936525775" expanded="true" signature="7389:7577" ph="Insert into valori... " />
-            <marker date="1513936525775" expanded="true" signature="7389:7658" ph="Insert into inregistrarewfh... " />
-            <marker date="1513936525775" expanded="true" signature="8645:9103" ph="Insert into delegati... " />
-            <marker date="1513936525775" expanded="true" signature="10614:10941" ph="Update valor... " />
-            <marker date="1513936525775" expanded="true" signature="12026:12075" ph="Select code employee" />
-            <marker date="1513936525775" expanded="true" signature="12488:12552" ph="SELECT email... employee_superior" />
-            <marker date="1513936525775" expanded="true" signature="13005:13069" ph="SELECT email... employee_superior" />
-            <marker date="1513936525775" expanded="true" signature="13537:13597" ph="Select emplo... valori" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../iPerform/web/delega.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="813">
-          <caret line="172" column="96" lean-forward="false" selection-start-line="172" selection-start-column="96" selection-end-line="172" selection-end-column="96" />
+        <state relative-caret-position="347">
+          <caret line="93" column="17" lean-forward="false" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoDelega.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="154" column="51" lean-forward="false" selection-start-line="154" selection-start-column="51" selection-end-line="154" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoInsertValori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="381" column="44" lean-forward="false" selection-start-line="381" selection-start-column="44" selection-end-line="381" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/IesireEchipa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/ObiectiveRetea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="46" column="12" lean-forward="false" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding>
+            <element signature="e#1427#1428#0" expanded="false" />
+            <element signature="e#1467#1468#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/EmployeeSuperior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/raiffeisen_ro-bold-webfont.eot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/doInsertEmployeeRam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="116" column="20" lean-forward="false" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoInsertObiectiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="155" column="71" lean-forward="false" selection-start-line="155" selection-start-column="71" selection-end-line="155" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoInsertObiectivClienti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="154" column="67" lean-forward="false" selection-start-line="154" selection-start-column="67" selection-end-line="154" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoInsertObiectivInvatare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="155" column="67" lean-forward="false" selection-start-line="155" selection-start-column="67" selection-end-line="155" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoInsertObiectivProcese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="152" column="38" lean-forward="true" selection-start-line="152" selection-start-column="38" selection-end-line="152" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/PerspectiveParametru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="171" column="44" lean-forward="false" selection-start-line="171" selection-start-column="44" selection-end-line="171" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoInsertObiectivOameni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="161" column="17" lean-forward="false" selection-start-line="161" selection-start-column="17" selection-end-line="161" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoDeleteFinanciar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1145">
+          <caret line="181" column="7" lean-forward="false" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoDeleteInvatare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="109" column="21" lean-forward="false" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoDeleteClienti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="167" column="7" lean-forward="false" selection-start-line="167" selection-start-column="7" selection-end-line="167" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoDeleteProcese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="141" column="17" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="141" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoDeleteOameni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="134" column="50" lean-forward="false" selection-start-line="134" selection-start-column="50" selection-end-line="134" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="2198" column="1" lean-forward="false" selection-start-line="2198" selection-start-column="1" selection-end-line="2198" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/insertAng.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="50" column="34" lean-forward="false" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/Valori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="131" column="44" lean-forward="false" selection-start-line="131" selection-start-column="44" selection-end-line="131" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/ValoriServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/jdoconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoUpdateProcese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="132" column="88" lean-forward="false" selection-start-line="132" selection-start-column="88" selection-end-line="132" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/Perspective.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3045">
+          <caret line="217" column="76" lean-forward="false" selection-start-line="217" selection-start-column="56" selection-end-line="217" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="128" column="43" lean-forward="false" selection-start-line="128" selection-start-column="38" selection-end-line="128" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoUpdateClienti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="217" column="42" lean-forward="false" selection-start-line="217" selection-start-column="29" selection-end-line="217" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoUpdateFinanciar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="199" column="12" lean-forward="false" selection-start-line="199" selection-start-column="12" selection-end-line="199" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/EchipaMea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="184" column="0" lean-forward="true" selection-start-line="183" selection-start-column="33" selection-end-line="184" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/echipaDetalii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="77" column="49" lean-forward="false" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoInsertRezultate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="123" column="34" lean-forward="true" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11923">
+          <caret line="78" column="32" lean-forward="false" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/appengine-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoInsertCompetente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="271" column="58" lean-forward="false" selection-start-line="271" selection-start-column="49" selection-end-line="271" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoUpdateOameni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="117" column="97" lean-forward="false" selection-start-line="117" selection-start-column="69" selection-end-line="117" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DoUpdateInvatare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="215" column="43" lean-forward="false" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/DBUtilis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="2064" column="34" lean-forward="false" selection-start-line="2064" selection-start-column="23" selection-end-line="2064" selection-end-column="34" />
+          <folding>
+            <marker date="1538326094000" expanded="true" signature="265:460" ph="SELECT a.cod... " />
+            <marker date="1538326094000" expanded="true" signature="265:671" ph="SELECT a.cod... employee_all" />
+            <marker date="1538326094000" expanded="true" signature="265:673" ph="SELECT a.cod... employee_all" />
+            <marker date="1538326094000" expanded="true" signature="265:707" ph="SELECT a.cod... employee_all" />
+            <marker date="1538326094000" expanded="true" signature="3238:3663" ph="Select a.las... employee" />
+            <marker date="1538326094000" expanded="true" signature="3238:3685" ph="Select a.las... employee" />
+            <marker date="1538326094000" expanded="true" signature="6214:6568" ph="Select code,... employee_superior" />
+            <marker date="1538326094000" expanded="true" signature="9880:10128" ph="Select a.int... " />
+            <marker date="1538326094000" expanded="true" signature="9880:10465" ph="Select a.int... valori" />
+            <marker date="1538326094000" expanded="true" signature="14414:14577" ph="Select a.abi... valori" />
+            <marker date="1538326094000" expanded="true" signature="14414:14592" ph="Select a.abi... competente" />
+            <marker date="1538326094000" expanded="true" signature="15801:16082" ph="Select a.fin... rezultate" />
+            <marker date="1538326094000" expanded="true" signature="18404:18507" ph="Insert into valori... " />
+            <marker date="1538326094000" expanded="true" signature="18404:18736" ph="Insert into valori... " />
+            <marker date="1538326094000" expanded="true" signature="18404:18936" ph="Insert into valori... " />
+            <marker date="1538326094000" expanded="true" signature="20675:20791" ph="Insert into competente... " />
+            <marker date="1538326094000" expanded="true" signature="21342:21518" ph="insert into employee_ram... " />
+            <marker date="1538326094000" expanded="true" signature="22351:22584" ph="Insert into rezultate... " />
+            <marker date="1538326094000" expanded="true" signature="23818:24276" ph="Insert into delegati... " />
+            <marker date="1538326094000" expanded="true" signature="25787:26210" ph="Update valor... " />
+            <marker date="1538326094000" expanded="true" signature="25787:26436" ph="Update valor... " />
+            <marker date="1538326094000" expanded="true" signature="28285:28408" ph="Update compe... " />
+            <marker date="1538326094000" expanded="true" signature="28939:29196" ph="Update rezul... " />
+            <marker date="1538326094000" expanded="true" signature="30428:30481" ph="Select code employee" />
+            <marker date="1538326094000" expanded="true" signature="30904:30954" ph="Select poza rezultate" />
+            <marker date="1538326094000" expanded="true" signature="31402:31470" ph="SELECT email... employee_superior" />
+            <marker date="1538326094000" expanded="true" signature="31905:31959" ph="SELECT unit employee" />
+            <marker date="1538326094000" expanded="true" signature="32419:32487" ph="SELECT email... employee_superior" />
+            <marker date="1538326094000" expanded="true" signature="32927:32985" ph="SELECT email... delegati" />
+            <marker date="1538326094000" expanded="true" signature="33422:33493" ph="Select super... employee" />
+            <marker date="1538326094000" expanded="true" signature="33970:34030" ph="Select emplo... valori" />
+            <marker date="1538326094000" expanded="true" signature="34508:34579" ph="Select count... obiective" />
+            <marker date="1538326094000" expanded="true" signature="34508:34619" ph="Select count... obiective" />
+            <marker date="1538326094000" expanded="true" signature="35115:35320" ph="Select RESUL... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="36675:36780" ph="Delete from " />
+            <marker date="1538326094000" expanded="true" signature="37126:37312" ph="Update rezul... " />
+            <marker date="1538326094000" expanded="true" signature="37944:38162" ph="Insert into obiectivecentrala... " />
+            <marker date="1538326094000" expanded="true" signature="39058:39167" ph="Select count... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="39652:39855" ph="Select RESUL... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="41206:41309" ph="Delete from " />
+            <marker date="1538326094000" expanded="true" signature="41654:41839" ph="Update obiec... " />
+            <marker date="1538326094000" expanded="true" signature="42476:42677" ph="Select RESUL... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="44013:44121" ph="Select count... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="44575:44677" ph="Delete from " />
+            <marker date="1538326094000" expanded="true" signature="45021:45205" ph="Update obiec... " />
+            <marker date="1538326094000" expanded="true" signature="45782:45824" ph="Update rezul... " />
+            <marker date="1538326094000" expanded="true" signature="46169:46365" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="47681:47877" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="49192:49388" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="50703:50899" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="52262:52315" ph="Select marca... competente" />
+            <marker date="1538326094000" expanded="true" signature="52819:52878" ph="Select marca... competente" />
+            <marker date="1538326094000" expanded="true" signature="52819:52941" ph="Select ENTIT... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="53442:53562" ph="Select ENTIT... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="54061:54180" ph="Select ENTIT... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="54678:54797" ph="Select ENTIT... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="55293:55411" ph="Select ENTIT... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="55956:56063" ph="Select ID AS... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="56561:56671" ph="Select ID AS... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="57165:57272" ph="Select ID AS... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="57768:57876" ph="Select ID AS... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="58368:58474" ph="Select ID AS... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="58916:58968" ph="Select marca... rezultate" />
+            <marker date="1538326094000" expanded="true" signature="59415:59613" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="60929:61127" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="62442:62640" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="63956:64154" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="65444:65558" ph="Select ID fr... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="65993:66105" ph="Select ID AS... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="66543:66654" ph="Select ID AS... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="67089:67201" ph="Select ID AS... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="67634:67744" ph="Select ID AS... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="68199:68307" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="68985:69164" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="68985:69180" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="70496:70691" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="72007:72202" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="73518:73713" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="75022:75128" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="75781:75886" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="76540:76645" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="77299:77403" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="78105:78306" ph="Select RESUL... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="79639:79747" ph="Select count... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="80201:80303" ph="Delete from " />
+            <marker date="1538326094000" expanded="true" signature="80647:80830" ph="Update obiec... " />
+            <marker date="1538326094000" expanded="true" signature="81441:81619" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="81441:81635" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="82951:83144" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="82951:83145" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="84461:84654" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="84461:84655" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="85971:86165" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="87519:87719" ph="Select RESUL... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="89053:89160" ph="Select count... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="89613:89714" ph="Delete from " />
+            <marker date="1538326094000" expanded="true" signature="90057:90239" ph="Update obiec... " />
+            <marker date="1538326094000" expanded="true" signature="90849:91026" ph="Select OBJEC... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="90849:91040" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="92353:92544" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="93857:94048" ph="Select ID,OB... obiectivecentrala" />
+            <marker date="1538326094000" expanded="true" signature="95361:95552" ph="Select ID,OB... obiectivecentrala" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/valori.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="204" column="84" lean-forward="false" selection-start-line="204" selection-start-column="84" selection-end-line="204" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/stilizare.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="410" column="0" lean-forward="true" selection-start-line="410" selection-start-column="0" selection-end-line="410" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/echipamea.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="216" column="40" lean-forward="true" selection-start-line="216" selection-start-column="40" selection-end-line="216" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1865">
+          <caret line="2024" column="0" lean-forward="false" selection-start-line="2024" selection-start-column="0" selection-end-line="2024" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#button#0;n#div#5;n#div#0;n#div#0;n#div#1;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#c:forEach#1;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="n#c:forEach#2;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="n#c:forEach#3;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="n#c:forEach#4;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="n#c:forEach#5;n#jsp:root#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="261" column="22" lean-forward="false" selection-start-line="261" selection-start-column="22" selection-end-line="261" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/Rezultate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          <folding>
+            <element signature="e#1779#1780#0" expanded="true" />
+            <element signature="e#1831#1832#0" expanded="true" />
+            <element signature="e#3793#3794#0" expanded="true" />
+            <element signature="e#3847#3848#0" expanded="true" />
+            <element signature="e#3889#3890#0" expanded="true" />
+            <element signature="e#3927#3928#0" expanded="true" />
+            <element signature="e#4086#4087#0" expanded="true" />
+            <element signature="e#4125#4126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/EchipaFrunza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="100" column="47" lean-forward="false" selection-start-line="100" selection-start-column="47" selection-end-line="100" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluare/ObiectiveCentrala.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="42" column="33" lean-forward="false" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding>
+            <element signature="e#1287#1288#0" expanded="true" />
+            <element signature="e#1345#1346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/perspective.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="284" column="66" lean-forward="false" selection-start-line="284" selection-start-column="66" selection-end-line="284" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#li#0;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#li#3;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#form#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1364,7 +1564,19 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Google App Engine|iPerform</last-edited>
+          <last-edited>Web|iPerform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1376,7 +1588,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>AppEngine API</last-edited>
+          <last-edited>_ah_compiled_jsps-0000</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
