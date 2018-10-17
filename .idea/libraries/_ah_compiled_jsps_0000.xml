@@ -1,0 +1,77 @@
+<component name="libraryTable">
+  <library name="_ah_compiled_jsps-0000">
+    <CLASSES>
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/_ah_compiled_jsps-0000.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/appengine-api-1.0-sdk-1.9.59.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/appengine-api-labs-1.9.57.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/appengine-api-labs-1.9.59.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/appengine-endpoints-deps.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/appengine-endpoints.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/appengine-jsr107cache-1.9.57.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/appengine-jsr107cache-1.9.59.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/commons-logging-1.1.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/geronimo-jpa_3.0_spec-1.1.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/geronimo-jta_1.1_spec-1.1.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-client-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-client-android-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-client-appengine-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-client-gson-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-client-jackson2-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-client-java6-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-client-protobuf-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-client-servlet-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-client-xml-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-api-services-calendar-v3-rev262-1.23.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-http-client-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-http-client-android-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-http-client-appengine-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-http-client-gson-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-http-client-jackson-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-http-client-jackson2-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-http-client-jdo-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-http-client-protobuf-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-http-client-xml-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-oauth-client-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-oauth-client-appengine-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-oauth-client-java6-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-oauth-client-jetty-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/google-oauth-client-servlet-1.22.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/gson-2.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/guava-jdk5-17.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/httpclient-4.0.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/httpcore-4.0.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/jackson-core-2.1.3.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/jackson-core-asl-1.9.11.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/javax.ejb.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/javax.jms.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/javax.resource.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/javax.servlet-3.0.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/javax.servlet.jsp.jstl-1.2.4.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/javax.transaction-api.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/jdo2-api-2.3-eb.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/jetty-6.1.26.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/jetty-util-6.1.26.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/jsr107cache-1.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/jsr305-1.3.9.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/libservice.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/mysql-connector-java-5.1.44-bin.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/protobuf-java-2.6.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/repackaged-appengine-ant-1.9.4.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/repackaged-appengine-ant-launcher-1.9.4.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/repackaged-appengine-eclipse-jdt-ecj.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/repackaged-appengine-jakarta-jstl-1.1.2.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/repackaged-appengine-jakarta-standard-1.1.2.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/repackaged-appengine-jasper-6.0.29.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/repackaged-appengine-jasper-el-6.0.29.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/repackaged-appengine-tomcat-juli-6.0.29.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/transaction-api-1.1.jar!/" />
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/xpp3-1.1.4c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///Applications/My Stuff/iPerformGit-master/iPerformGit-master/jsr305-1.3.9.jar!/" />
+    </SOURCES>
+  </library>
+</component>

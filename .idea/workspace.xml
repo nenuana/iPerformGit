@@ -9,59 +9,8 @@
     <bookmark url="file://$PROJECT_DIR$/web/stilizare.css" description="&#10;#overlay {&#10;    position: fixed;&#10;    display: none..." line="635" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5a9ffe3-b512-473f-84ae-c887ce1fdaf2" name="Default" comment="[dev] -new update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/Competente.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteClienti.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteFinanciar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteInvatare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteOameni.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoDeleteProcese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertCompetente.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectiv.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivClienti.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivInvatare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivOameni.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertObiectivProcese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertRezultate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateClienti.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateFinanciar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateInvatare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateOameni.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/DoUpdateProcese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/ObiectiveCentrala.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/ObiectiveRetea.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/PerspectiveParametru.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/Rezultate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Evaluare/echipaDetalii.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/insertAng.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/AppEngine_API.xml" afterPath="$PROJECT_DIR$/.idea/libraries/AppEngine_API.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/AppEngine_ORM.xml" afterPath="$PROJECT_DIR$/.idea/libraries/AppEngine_ORM.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="a5a9ffe3-b512-473f-84ae-c887ce1fdaf2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iPerform.iml" afterPath="$PROJECT_DIR$/iPerform.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/DBUtilis.java" afterPath="$PROJECT_DIR$/src/Evaluare/DBUtilis.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/Delega.java" afterPath="$PROJECT_DIR$/src/Evaluare/Delega.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/DoDelega.java" afterPath="$PROJECT_DIR$/src/Evaluare/DoDelega.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/DoInsertValori.java" afterPath="$PROJECT_DIR$/src/Evaluare/DoInsertValori.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/EchipaFrunza.java" afterPath="$PROJECT_DIR$/src/Evaluare/EchipaFrunza.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/EchipaMea.java" afterPath="$PROJECT_DIR$/src/Evaluare/EchipaMea.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/Home.java" afterPath="$PROJECT_DIR$/src/Evaluare/Home.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/IesireEchipa.java" afterPath="$PROJECT_DIR$/src/Evaluare/IesireEchipa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/LoginServlet.java" afterPath="$PROJECT_DIR$/src/Evaluare/LoginServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/Perspective.java" afterPath="$PROJECT_DIR$/src/Evaluare/Perspective.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/Valori.java" afterPath="$PROJECT_DIR$/src/Evaluare/Valori.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluare/ValoriServlet.java" afterPath="$PROJECT_DIR$/src/Evaluare/ValoriServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/delega.jsp" afterPath="$PROJECT_DIR$/web/delega.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/echipamea.jsp" afterPath="$PROJECT_DIR$/web/echipamea.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/home.jsp" afterPath="$PROJECT_DIR$/web/home.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/perspective.jsp" afterPath="$PROJECT_DIR$/web/perspective.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/stilizare.css" afterPath="$PROJECT_DIR$/web/stilizare.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/valori.jsp" afterPath="$PROJECT_DIR$/web/valori.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -813,12 +762,20 @@
       <workItem from="1532417021385" duration="50547000" />
       <workItem from="1537906602932" duration="308000" />
       <workItem from="1537906944333" duration="1015000" />
-      <workItem from="1537908225013" duration="43292000" />
+      <workItem from="1537908225013" duration="43371000" />
     </task>
+    <task id="LOCAL-00001" summary="[dev] -new update">
+      <created>1539760359926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539760359927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="803082000" />
+    <option name="totallyTimeSpent" value="803161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
